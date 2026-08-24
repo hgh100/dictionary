@@ -1,0 +1,635 @@
+Inflation
+تورم
+Inflation reduces the purchasing power of money.
+تورم قدرت خرید پول را کاهش می‌دهد.
+noun
+
+Deflation
+تورم منفی؛ کاهش عمومی قیمت‌ها
+Deflation can discourage consumers from spending.
+تورم منفی می‌تواند مصرف‌کنندگان را از خرج کردن منصرف کند.
+noun
+
+Recession
+رکود اقتصادی
+The country entered a severe recession last year.
+کشور سال گذشته وارد یک رکود شدید اقتصادی شد.
+noun
+
+Depression
+افسردگی اقتصادی؛ رکود بسیار شدید
+The Great Depression affected millions of people.
+رکود بزرگ میلیون‌ها نفر را تحت تأثیر قرار داد.
+noun
+
+Growth
+رشد اقتصادی
+Economic growth has increased employment opportunities.
+رشد اقتصادی فرصت‌های اشتغال را افزایش داده است.
+noun
+
+GDP
+تولید ناخالص داخلی
+The country's GDP grew by three percent.
+تولید ناخالص داخلی کشور سه درصد رشد کرد.
+noun
+
+Revenue
+درآمد؛ عایدی
+The company's revenue increased significantly this year.
+درآمد شرکت امسال به میزان قابل توجهی افزایش یافت.
+noun
+
+Profit
+سود
+The company made a large profit last quarter.
+شرکت در سه‌ماهه گذشته سود زیادی به دست آورد.
+noun
+
+Loss
+زیان؛ ضرر
+The business reported a significant loss.
+این کسب‌وکار زیان قابل توجهی را گزارش کرد.
+noun
+
+Investment
+سرمایه‌گذاری
+Foreign investment can stimulate economic growth.
+سرمایه‌گذاری خارجی می‌تواند رشد اقتصادی را تحریک کند.
+noun
+
+Investor
+سرمایه‌گذار
+The investor decided to buy more shares.
+سرمایه‌گذار تصمیم گرفت سهام بیشتری بخرد.
+noun
+
+Asset
+دارایی
+The company owns several valuable assets.
+این شرکت چندین دارایی ارزشمند دارد.
+noun
+
+Liability
+بدهی؛ تعهد مالی
+The company's liabilities exceed its assets.
+بدهی‌های شرکت از دارایی‌های آن بیشتر است.
+noun
+
+Debt
+بدهی
+The government is trying to reduce its debt.
+دولت در تلاش است بدهی خود را کاهش دهد.
+noun
+
+Loan
+وام
+She took out a loan to start her business.
+او برای راه‌اندازی کسب‌وکارش وام گرفت.
+noun
+
+Interest
+بهره؛ سود
+The bank charges a high rate of interest.
+بانک نرخ بهره بالایی دریافت می‌کند.
+noun
+
+Mortgage
+وام مسکن
+They applied for a mortgage to buy a house.
+آن‌ها برای خرید خانه درخواست وام مسکن دادند.
+noun
+
+Credit
+اعتبار؛ تسهیلات اعتباری
+Good credit can help you obtain a loan.
+اعتبار خوب می‌تواند به شما در دریافت وام کمک کند.
+noun
+
+Bankruptcy
+ورشکستگی
+The company filed for bankruptcy after years of losses.
+شرکت پس از سال‌ها زیان درخواست ورشکستگی کرد.
+noun
+
+Budget
+بودجه
+The government announced a new annual budget.
+دولت بودجه سالانه جدیدی را اعلام کرد.
+noun
+
+Tax
+مالیات
+The government increased taxes on luxury goods.
+دولت مالیات بر کالاهای لوکس را افزایش داد.
+noun
+
+Taxation
+مالیات‌گیری؛ نظام مالیاتی
+Taxation is an important source of government revenue.
+مالیات‌گیری منبع مهم درآمد دولت است.
+noun
+
+Subsidy
+یارانه
+The government provides subsidies to farmers.
+دولت به کشاورزان یارانه می‌دهد.
+noun
+
+Tariff
+تعرفه؛ مالیات گمرکی
+The country imposed a tariff on imported steel.
+کشور بر فولاد وارداتی تعرفه وضع کرد.
+noun
+
+Export
+صادرات؛ صادر کردن
+The country exports oil to several markets.
+این کشور نفت را به چندین بازار صادر می‌کند.
+noun/verb
+
+Import
+واردات؛ وارد کردن
+The country imports most of its raw materials.
+این کشور بیشتر مواد اولیه خود را وارد می‌کند.
+noun/verb
+
+Trade
+تجارت؛ دادوستد
+International trade plays a major role in the economy.
+تجارت بین‌المللی نقش مهمی در اقتصاد دارد.
+noun/verb
+
+Commerce
+بازرگانی؛ تجارت
+Electronic commerce has transformed the retail industry.
+تجارت الکترونیکی صنعت خرده‌فروشی را متحول کرده است.
+noun
+
+Market
+بازار
+The housing market is becoming more competitive.
+بازار مسکن در حال رقابتی‌تر شدن است.
+noun
+
+Supply
+عرضه؛ تأمین
+A shortage of supply caused prices to rise.
+کمبود عرضه باعث افزایش قیمت‌ها شد.
+noun
+
+Demand
+تقاضا
+Demand for electric cars is increasing.
+تقاضا برای خودروهای برقی در حال افزایش است.
+noun
+
+Consumer
+مصرف‌کننده
+Consumers are becoming more price-conscious.
+مصرف‌کنندگان نسبت به قیمت حساس‌تر می‌شوند.
+noun
+
+Producer
+تولیدکننده
+The producer lowered prices to attract customers.
+تولیدکننده برای جذب مشتریان قیمت‌ها را کاهش داد.
+noun
+
+Consumption
+مصرف
+Household consumption has declined recently.
+مصرف خانوار اخیراً کاهش یافته است.
+noun
+
+Production
+تولید
+Industrial production increased during the year.
+تولید صنعتی در طول سال افزایش یافت.
+noun
+
+Productivity
+بهره‌وری
+Technology can improve worker productivity.
+فناوری می‌تواند بهره‌وری کارکنان را بهبود دهد.
+noun
+
+Employment
+اشتغال
+Employment increased as the economy recovered.
+با بهبود اقتصاد، اشتغال افزایش یافت.
+noun
+
+Unemployment
+بیکاری
+Unemployment remains high among young people.
+بیکاری در میان جوانان همچنان بالاست.
+noun
+
+Wage
+دستمزد
+Workers demanded higher wages.
+کارگران خواستار دستمزدهای بالاتر شدند.
+noun
+
+Salary
+حقوق؛ دستمزد
+Her annual salary increased after the promotion.
+حقوق سالانه او پس از ارتقا افزایش یافت.
+noun
+
+Income
+درآمد
+His monthly income is not enough to cover his expenses.
+درآمد ماهانه او برای پوشش هزینه‌هایش کافی نیست.
+noun
+
+Expenditure
+مخارج؛ هزینه
+Government expenditure has risen sharply.
+مخارج دولت به‌شدت افزایش یافته است.
+noun
+
+Expense
+هزینه
+The company reduced its operating expenses.
+شرکت هزینه‌های عملیاتی خود را کاهش داد.
+noun
+
+Capital
+سرمایه
+The business needs more capital to expand.
+این کسب‌وکار برای توسعه به سرمایه بیشتری نیاز دارد.
+noun
+
+Capitalism
+سرمایه‌داری
+Capitalism relies heavily on private ownership.
+سرمایه‌داری تا حد زیادی بر مالکیت خصوصی متکی است.
+noun
+
+Monopoly
+انحصار
+The company has a monopoly in the local market.
+این شرکت در بازار محلی انحصار دارد.
+noun
+
+Competition
+رقابت
+Strong competition can lead to lower prices.
+رقابت شدید می‌تواند به کاهش قیمت‌ها منجر شود.
+noun
+
+Competitor
+رقیب
+The company is facing several international competitors.
+این شرکت با چندین رقیب بین‌المللی روبه‌رو است.
+noun
+
+Enterprise
+بنگاه اقتصادی؛ شرکت
+The government supports small enterprises.
+دولت از بنگاه‌های کوچک حمایت می‌کند.
+noun
+
+Corporation
+شرکت؛ بنگاه بزرگ
+The corporation operates in several countries.
+این شرکت در چندین کشور فعالیت می‌کند.
+noun
+
+Entrepreneur
+کارآفرین
+The entrepreneur launched a successful technology company.
+کارآفرین یک شرکت فناوری موفق راه‌اندازی کرد.
+noun
+
+Entrepreneurship
+کارآفرینی
+Entrepreneurship can create new jobs.
+کارآفرینی می‌تواند شغل‌های جدید ایجاد کند.
+noun
+
+Fiscal
+مالی؛ مربوط به بودجه دولت
+The government introduced new fiscal policies.
+دولت سیاست‌های مالی جدیدی معرفی کرد.
+adjective
+
+Monetary
+پولی؛ مربوط به پول و سیاست پولی
+The central bank changed its monetary policy.
+بانک مرکزی سیاست پولی خود را تغییر داد.
+adjective
+
+Currency
+ارز؛ واحد پول
+The national currency lost value against the dollar.
+ارز ملی در برابر دلار ارزش خود را از دست داد.
+noun
+
+Exchange
+تبادل؛ مبادله
+The exchange of goods supports international commerce.
+تبادل کالاها از تجارت بین‌المللی حمایت می‌کند.
+noun
+
+Rate
+نرخ
+The unemployment rate has fallen slightly.
+نرخ بیکاری اندکی کاهش یافته است.
+noun
+
+Interest rate
+نرخ بهره
+The central bank raised the interest rate.
+بانک مرکزی نرخ بهره را افزایش داد.
+noun
+
+Exchange rate
+نرخ ارز
+The exchange rate changes every day.
+نرخ ارز هر روز تغییر می‌کند.
+noun
+
+Central bank
+بانک مرکزی
+The central bank controls monetary policy.
+بانک مرکزی سیاست پولی را کنترل می‌کند.
+noun
+
+Treasury
+خزانه‌داری
+The Treasury announced new financial measures.
+خزانه‌داری اقدامات مالی جدیدی را اعلام کرد.
+noun
+
+Economy
+اقتصاد
+The economy is gradually recovering.
+اقتصاد به‌تدریج در حال بهبود است.
+noun
+
+Economics
+علم اقتصاد
+She studied economics at university.
+او در دانشگاه علم اقتصاد خواند.
+noun
+
+Economist
+اقتصاددان
+The economist predicted slower economic growth.
+اقتصاددان رشد اقتصادی کندتری را پیش‌بینی کرد.
+noun
+
+Policy
+سیاست؛ خط‌مشی
+The government adopted a new economic policy.
+دولت یک سیاست اقتصادی جدید اتخاذ کرد.
+noun
+
+Regulation
+مقررات؛ قانون‌گذاری
+New regulations were introduced to protect consumers.
+مقررات جدیدی برای حمایت از مصرف‌کنندگان وضع شد.
+noun
+
+Deregulation
+مقررات‌زدایی
+Deregulation increased competition in the industry.
+مقررات‌زدایی رقابت را در صنعت افزایش داد.
+noun
+
+Privatization
+خصوصی‌سازی
+Privatization transferred several state companies to private owners.
+خصوصی‌سازی چندین شرکت دولتی را به مالکان خصوصی منتقل کرد.
+noun
+
+Nationalization
+ملی‌سازی
+Nationalization placed the industry under government control.
+ملی‌سازی این صنعت را تحت کنترل دولت قرار داد.
+noun
+
+Austerity
+ریاضت اقتصادی
+The government introduced austerity measures to reduce spending.
+دولت برای کاهش هزینه‌ها اقدامات ریاضتی اقتصادی را اجرا کرد.
+noun
+
+Deficit
+کسری
+The government is struggling to reduce its budget deficit.
+دولت برای کاهش کسری بودجه خود با مشکل مواجه است.
+noun
+
+Surplus
+مازاد
+The country recorded a trade surplus.
+کشور مازاد تجاری ثبت کرد.
+noun
+
+Balance
+تراز؛ تعادل
+The government wants to maintain a balanced budget.
+دولت می‌خواهد بودجه متعادلی داشته باشد.
+noun
+
+Trade deficit
+کسری تجاری
+The country has a large trade deficit.
+این کشور کسری تجاری بزرگی دارد.
+noun
+
+Trade surplus
+مازاد تجاری
+Exports exceeded imports, creating a trade surplus.
+صادرات از واردات بیشتر بود و مازاد تجاری ایجاد کرد.
+noun
+
+Fiscal deficit
+کسری مالی
+The fiscal deficit reached a record level.
+کسری مالی به سطح بی‌سابقه‌ای رسید.
+noun
+
+Economic crisis
+بحران اقتصادی
+The economic crisis affected businesses and households.
+بحران اقتصادی بر کسب‌وکارها و خانوارها تأثیر گذاشت.
+noun
+
+Financial
+مالی
+The company is experiencing financial difficulties.
+شرکت با مشکلات مالی مواجه است.
+adjective
+
+Financial market
+بازار مالی
+Financial markets reacted negatively to the announcement.
+بازارهای مالی واکنش منفی به این اعلامیه نشان دادند.
+noun
+
+Stock
+سهام
+He bought stocks in several technology companies.
+او سهام چندین شرکت فناوری را خرید.
+noun
+
+Share
+سهم؛ سهام
+The company's share price increased rapidly.
+قیمت سهام شرکت به‌سرعت افزایش یافت.
+noun
+
+Bond
+اوراق قرضه
+The government issued new bonds to raise money.
+دولت برای تأمین پول اوراق قرضه جدیدی منتشر کرد.
+noun
+
+Dividend
+سود سهام
+The company paid a dividend to its shareholders.
+شرکت به سهامداران خود سود سهام پرداخت کرد.
+noun
+
+Shareholder
+سهامدار
+Shareholders approved the company's new strategy.
+سهامداران استراتژی جدید شرکت را تأیید کردند.
+noun
+
+Portfolio
+سبد سرمایه‌گذاری
+The investor diversified her portfolio.
+سرمایه‌گذار سبد سرمایه‌گذاری خود را متنوع کرد.
+noun
+
+Risk
+ریسک؛ خطر
+Investors should consider the financial risk.
+سرمایه‌گذاران باید ریسک مالی را در نظر بگیرند.
+noun
+
+Return
+بازده؛ سود
+The investment generated a high return.
+این سرمایه‌گذاری بازده بالایی ایجاد کرد.
+noun
+
+Yield
+بازده؛ سوددهی
+Government bonds usually offer a stable yield.
+اوراق قرضه دولتی معمولاً بازدهی باثباتی ارائه می‌دهند.
+noun
+
+Liquidity
+نقدشوندگی
+The company needs enough liquidity to pay its debts.
+شرکت برای پرداخت بدهی‌هایش به نقدینگی کافی نیاز دارد.
+noun
+
+Solvency
+توانایی پرداخت بدهی؛ قدرت مالی
+The bank's solvency is being carefully monitored.
+توانایی بانک در پرداخت بدهی‌هایش به‌دقت بررسی می‌شود.
+noun
+
+Wealth
+ثروت
+Economic policies can influence the distribution of wealth.
+سیاست‌های اقتصادی می‌توانند بر توزیع ثروت تأثیر بگذارند.
+noun
+
+Poverty
+فقر
+Economic growth has helped reduce poverty.
+رشد اقتصادی به کاهش فقر کمک کرده است.
+noun
+
+Inequality
+نابرابری
+Income inequality remains a major economic issue.
+نابرابری درآمد همچنان یک مسئله مهم اقتصادی است.
+noun
+
+Affluence
+رفاه؛ ثروتمندی
+Affluence has increased demand for luxury products.
+افزایش رفاه باعث افزایش تقاضا برای کالاهای لوکس شده است.
+noun
+
+Scarcity
+کمیابی
+Scarcity forces consumers to make difficult choices.
+کمیابی مصرف‌کنندگان را مجبور به انتخاب‌های دشوار می‌کند.
+noun
+
+Allocation
+تخصیص؛ اختصاص
+Efficient allocation of resources improves productivity.
+تخصیص کارآمد منابع بهره‌وری را بهبود می‌دهد.
+noun
+
+Resource
+منبع؛ منابع
+Natural resources are essential for economic development.
+منابع طبیعی برای توسعه اقتصادی ضروری هستند.
+noun
+
+Product
+محصول؛ کالا
+The company launched a new product.
+شرکت محصول جدیدی را عرضه کرد.
+noun
+
+Service
+خدمت؛ خدمات
+The service sector employs millions of people.
+بخش خدمات میلیون‌ها نفر را به کار گرفته است.
+noun
+
+Industry
+صنعت
+The automotive industry contributes significantly to the economy.
+صنعت خودروسازی سهم قابل توجهی در اقتصاد دارد.
+noun
+
+Sector
+بخش؛ حوزه اقتصادی
+The technology sector is growing rapidly.
+بخش فناوری به‌سرعت در حال رشد است.
+noun
+
+Infrastructure
+زیرساخت
+Investment in infrastructure can support economic development.
+سرمایه‌گذاری در زیرساخت می‌تواند از توسعه اقتصادی حمایت کند.
+noun
+
+Productivity
+بهره‌وری
+Higher productivity can increase economic output.
+بهره‌وری بالاتر می‌تواند تولید اقتصادی را افزایش دهد.
+noun
+
+Innovation
+نوآوری
+Innovation can make businesses more competitive.
+نوآوری می‌تواند کسب‌وکارها را رقابتی‌تر کند.
+noun
+
+Globalization
+جهانی‌شدن؛ جهانی‌سازی
+Globalization has increased international trade.
+جهانی‌شدن تجارت بین‌المللی را افزایش داده است.
+noun
+
+Localization
+بومی‌سازی؛ محلی‌سازی
+Localization can help businesses adapt to local markets.
+بومی‌سازی می‌تواند به کسب‌وکارها در سازگاری با بازارهای محلی کمک کند.
+noun
