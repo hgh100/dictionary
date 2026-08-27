@@ -1,0 +1,1469 @@
+algebra
+جبر
+Algebra is used to solve equations.
+از جبر برای حل معادلات استفاده می‌شود.
+noun
+
+equation
+معادله
+This equation has two solutions.
+این معادله دو جواب دارد.
+noun
+
+variable
+متغیر
+The value of the variable is unknown.
+مقدار متغیر ناشناخته است.
+noun
+
+constant
+ثابت
+The number five is a constant.
+عدد پنج یک ثابت است.
+noun
+
+coefficient
+ضریب
+The coefficient of x is three.
+ضریب x سه است.
+noun
+
+expression
+عبارت
+Simplify the mathematical expression.
+عبارت ریاضی را ساده کنید.
+noun
+
+formula
+فرمول
+Use this formula to calculate the area.
+برای محاسبه مساحت از این فرمول استفاده کنید.
+noun
+
+integer
+عدد صحیح
+Seven is an integer.
+هفت یک عدد صحیح است.
+noun
+
+fraction
+کسر
+One half is a simple fraction.
+یک دوم یک کسر ساده است.
+noun
+
+numerator
+صورت
+The numerator is two.
+صورت کسر دو است.
+noun
+
+denominator
+مخرج
+The denominator is five.
+مخرج کسر پنج است.
+noun
+
+decimal
+اعشاری
+Write the answer as a decimal.
+پاسخ را به صورت اعشاری بنویسید.
+noun
+
+percentage
+درصد
+The percentage is twenty percent.
+درصد بیست درصد است.
+noun
+
+ratio
+نسبت
+The ratio of boys to girls is two to three.
+نسبت پسرها به دخترها دو به سه است.
+noun
+
+proportion
+تناسب
+The problem can be solved using a proportion.
+این مسئله را می‌توان با استفاده از تناسب حل کرد.
+noun
+
+sum
+مجموع
+The sum of four and six is ten.
+مجموع چهار و شش ده است.
+noun
+
+difference
+تفاضل
+The difference between ten and seven is three.
+تفاضل ده و هفت سه است.
+noun
+
+product
+حاصل‌ضرب
+The product of three and four is twelve.
+حاصل‌ضرب سه و چهار دوازده است.
+noun
+
+quotient
+خارج‌قسمت
+The quotient of twenty divided by four is five.
+خارج‌قسمت بیست تقسیم بر چهار پنج است.
+noun
+
+remainder
+باقی‌مانده
+The remainder is two.
+باقی‌مانده دو است.
+noun
+
+addition
+جمع
+Addition is a basic arithmetic operation.
+جمع یک عمل اساسی حسابی است.
+noun
+
+subtraction
+تفریق
+Subtraction is used to find the difference.
+از تفریق برای یافتن تفاضل استفاده می‌شود.
+noun
+
+multiplication
+ضرب
+Multiplication is repeated addition.
+ضرب همان جمع تکراری است.
+noun
+
+division
+تقسیم
+Division separates a number into equal parts.
+تقسیم یک عدد را به بخش‌های مساوی تقسیم می‌کند.
+noun
+
+arithmetic
+حساب
+Arithmetic involves basic numerical operations.
+حساب شامل عملیات پایه عددی است.
+noun
+
+number
+عدد
+Every number has a position on the number line.
+هر عددی روی محور اعداد یک موقعیت دارد.
+noun
+
+digit
+رقم
+The number 48 has two digits.
+عدد ۴۸ دو رقم دارد.
+noun
+
+numeral
+عددنویسه
+A numeral represents a number.
+عددنویسه یک عدد را نشان می‌دهد.
+noun
+
+odd
+فرد
+Seven is an odd number.
+هفت یک عدد فرد است.
+adjective
+
+even
+زوج
+Eight is an even number.
+هشت یک عدد زوج است.
+adjective
+
+prime
+اول
+Eleven is a prime number.
+یازده یک عدد اول است.
+adjective
+
+composite
+مرکب
+Twelve is a composite number.
+دوازده یک عدد مرکب است.
+adjective
+
+positive
+مثبت
+Five is a positive number.
+پنج یک عدد مثبت است.
+adjective
+
+negative
+منفی
+Minus three is a negative number.
+منفی سه یک عدد منفی است.
+adjective
+
+absolute
+مطلق
+The absolute value of negative seven is seven.
+قدر مطلق منفی هفت، هفت است.
+adjective
+
+magnitude
+اندازه
+The magnitude of the vector is five.
+اندازه بردار پنج است.
+noun
+
+infinity
+بی‌نهایت
+The sequence approaches infinity.
+دنباله به سمت بی‌نهایت میل می‌کند.
+noun
+
+zero
+صفر
+Zero is neither positive nor negative.
+صفر نه مثبت است و نه منفی.
+noun
+
+natural
+طبیعی
+Three is a natural number.
+سه یک عدد طبیعی است.
+adjective
+
+rational
+گویا
+One half is a rational number.
+یک دوم یک عدد گویا است.
+adjective
+
+irrational
+گنگ
+Pi is an irrational number.
+پی یک عدد گنگ است.
+adjective
+
+real
+حقیقی
+Every rational number is a real number.
+هر عدد گویا یک عدد حقیقی است.
+adjective
+
+complex
+مختلط
+A complex number has a real and an imaginary part.
+یک عدد مختلط دارای بخش حقیقی و موهومی است.
+adjective
+
+imaginary
+موهومی
+The square root of negative one is an imaginary number.
+جذر منفی یک یک عدد موهومی است.
+adjective
+
+sequence
+دنباله
+Find the next number in the sequence.
+عدد بعدی دنباله را پیدا کنید.
+noun
+
+series
+سری
+The series contains infinitely many terms.
+این سری شامل بی‌نهایت جمله است.
+noun
+
+term
+جمله
+The fifth term is ten.
+جمله پنجم ده است.
+noun
+
+pattern
+الگو
+Find the pattern in these numbers.
+الگوی این اعداد را پیدا کنید.
+noun
+
+set
+مجموعه
+A set contains distinct elements.
+یک مجموعه شامل اعضای متمایز است.
+noun
+
+element
+عضو
+Five is an element of the set.
+پنج یکی از اعضای مجموعه است.
+noun
+
+subset
+زیرمجموعه
+A subset is contained within another set.
+یک زیرمجموعه درون مجموعه دیگری قرار دارد.
+noun
+
+union
+اجتماع
+The union contains all elements from both sets.
+اجتماع شامل همه اعضای هر دو مجموعه است.
+noun
+
+intersection
+اشتراک
+The intersection contains common elements.
+اشتراک شامل اعضای مشترک است.
+noun
+
+domain
+دامنه
+The domain contains all allowed input values.
+دامنه شامل همه مقادیر ورودی مجاز است.
+noun
+
+range
+برد
+Find the range of the function.
+برد تابع را پیدا کنید.
+noun
+
+function
+تابع
+The function maps each input to an output.
+تابع هر ورودی را به یک خروجی نگاشت می‌کند.
+noun
+
+mapping
+نگاشت
+The mapping connects elements of two sets.
+نگاشت اعضای دو مجموعه را به هم مرتبط می‌کند.
+noun
+
+input
+ورودی
+The input is four.
+ورودی چهار است.
+noun
+
+output
+خروجی
+The output is sixteen.
+خروجی شانزده است.
+noun
+
+graph
+نمودار
+The graph shows the relationship between x and y.
+نمودار رابطه بین x و y را نشان می‌دهد.
+noun
+
+coordinate
+مختصات
+The coordinate of the point is three comma four.
+مختصات نقطه سه و چهار است.
+noun
+
+axis
+محور
+The x-axis is horizontal.
+محور x افقی است.
+noun
+
+origin
+مبدأ
+The origin has coordinates zero and zero.
+مبدأ مختصات صفر و صفر دارد.
+noun
+
+quadrant
+ربع
+The point lies in the first quadrant.
+نقطه در ربع اول قرار دارد.
+noun
+
+slope
+شیب
+The slope of the line is two.
+شیب خط دو است.
+noun
+
+intercept
+عرض از مبدأ
+The y-intercept is five.
+عرض از مبدأ پنج است.
+noun
+
+line
+خط
+The line passes through two points.
+خط از دو نقطه عبور می‌کند.
+noun
+
+segment
+پاره‌خط
+A segment has two endpoints.
+یک پاره‌خط دو نقطه انتهایی دارد.
+noun
+
+ray
+نیم‌خط
+A ray has one endpoint.
+یک نیم‌خط یک نقطه انتهایی دارد.
+noun
+
+point
+نقطه
+A point has no dimensions.
+یک نقطه هیچ بُعدی ندارد.
+noun
+
+angle
+زاویه
+The angle measures ninety degrees.
+اندازه زاویه نود درجه است.
+noun
+
+acute
+تند
+An acute angle is less than ninety degrees.
+زاویه تند کمتر از نود درجه است.
+adjective
+
+obtuse
+باز
+An obtuse angle is greater than ninety degrees.
+زاویه باز بیشتر از نود درجه است.
+adjective
+
+right
+قائم
+A right angle measures ninety degrees.
+زاویه قائم نود درجه است.
+adjective
+
+straight
+مستقیم
+A straight angle measures one hundred eighty degrees.
+زاویه مستقیم صد و هشتاد درجه است.
+adjective
+
+degree
+درجه
+The angle is forty-five degrees.
+زاویه چهل و پنج درجه است.
+noun
+
+radian
+رادیان
+Pi radians equal one hundred eighty degrees.
+پی رادیان برابر با صد و هشتاد درجه است.
+noun
+
+parallel
+موازی
+Parallel lines never intersect.
+خطوط موازی هرگز یکدیگر را قطع نمی‌کنند.
+adjective
+
+perpendicular
+عمود
+The two lines are perpendicular.
+دو خط بر هم عمود هستند.
+adjective
+
+triangle
+مثلث
+A triangle has three sides.
+یک مثلث سه ضلع دارد.
+noun
+
+equilateral
+متساوی‌الاضلاع
+An equilateral triangle has three equal sides.
+مثلث متساوی‌الاضلاع سه ضلع برابر دارد.
+adjective
+
+isosceles
+متساوی‌الساقین
+An isosceles triangle has two equal sides.
+مثلث متساوی‌الساقین دو ضلع برابر دارد.
+adjective
+
+scalene
+مختلف‌الاضلاع
+A scalene triangle has three unequal sides.
+مثلث مختلف‌الاضلاع سه ضلع نابرابر دارد.
+adjective
+
+hypotenuse
+وتر
+The hypotenuse is the longest side of a right triangle.
+وتر بلندترین ضلع مثلث قائم‌الزاویه است.
+noun
+
+polygon
+چندضلعی
+A pentagon is a polygon.
+پنج‌ضلعی یک چندضلعی است.
+noun
+
+quadrilateral
+چهارضلعی
+A quadrilateral has four sides.
+یک چهارضلعی چهار ضلع دارد.
+noun
+
+rectangle
+مستطیل
+A rectangle has four right angles.
+مستطیل چهار زاویه قائم دارد.
+noun
+
+square
+مربع
+A square has four equal sides.
+مربع چهار ضلع برابر دارد.
+noun
+
+parallelogram
+متوازی‌الاضلاع
+A parallelogram has two pairs of parallel sides.
+متوازی‌الاضلاع دو جفت ضلع موازی دارد.
+noun
+
+trapezoid
+ذوزنقه
+A trapezoid has at least one pair of parallel sides.
+ذوزنقه حداقل یک جفت ضلع موازی دارد.
+noun
+
+rhombus
+لوزی
+A rhombus has four equal sides.
+لوزی چهار ضلع برابر دارد.
+noun
+
+circle
+دایره
+The circle has a radius of five centimeters.
+شعاع دایره پنج سانتی‌متر است.
+noun
+
+radius
+شعاع
+The radius is half the diameter.
+شعاع نصف قطر است.
+noun
+
+diameter
+قطر
+The diameter is ten centimeters.
+قطر ده سانتی‌متر است.
+noun
+
+circumference
+محیط دایره
+Calculate the circumference of the circle.
+محیط دایره را محاسبه کنید.
+noun
+
+area
+مساحت
+The area of the square is twenty-five square meters.
+مساحت مربع بیست و پنج متر مربع است.
+noun
+
+perimeter
+محیط
+The perimeter of the rectangle is twenty meters.
+محیط مستطیل بیست متر است.
+noun
+
+volume
+حجم
+The volume of the cube is sixty-four cubic centimeters.
+حجم مکعب شصت و چهار سانتی‌متر مکعب است.
+noun
+
+surface
+سطح
+The surface area of the sphere is large.
+مساحت سطح کره زیاد است.
+noun
+
+cube
+مکعب
+A cube has six square faces.
+مکعب شش وجه مربع دارد.
+noun
+
+sphere
+کره
+A sphere has no edges.
+کره هیچ یالی ندارد.
+noun
+
+cylinder
+استوانه
+The cylinder has two circular bases.
+استوانه دو قاعده دایره‌ای دارد.
+noun
+
+cone
+مخروط
+A cone has one circular base.
+مخروط یک قاعده دایره‌ای دارد.
+noun
+
+prism
+منشور
+The prism has triangular bases.
+منشور قاعده‌های مثلثی دارد.
+noun
+
+pyramid
+هرم
+The pyramid has a square base.
+هرم یک قاعده مربعی دارد.
+noun
+
+vertex
+رأس
+A triangle has three vertices.
+مثلث سه رأس دارد.
+noun
+
+edge
+یال
+A cube has twelve edges.
+مکعب دوازده یال دارد.
+noun
+
+face
+وجه
+A cube has six faces.
+مکعب شش وجه دارد.
+noun
+
+diagonal
+قطر
+Draw the diagonal of the rectangle.
+قطر مستطیل را رسم کنید.
+noun
+
+symmetry
+تقارن
+The shape has line symmetry.
+این شکل تقارن محوری دارد.
+noun
+
+congruent
+هم‌نهشت
+The two triangles are congruent.
+دو مثلث هم‌نهشت هستند.
+adjective
+
+similar
+متشابه
+The two triangles are similar.
+دو مثلث متشابه هستند.
+adjective
+
+theorem
+قضیه
+The Pythagorean theorem relates the sides of a right triangle.
+قضیه فیثاغورس اضلاع یک مثلث قائم‌الزاویه را به هم مرتبط می‌کند.
+noun
+
+proof
+اثبات
+The proof shows that the theorem is true.
+اثبات نشان می‌دهد که قضیه درست است.
+noun
+
+hypothesis
+فرضیه
+The hypothesis is given in the problem.
+فرضیه در مسئله داده شده است.
+noun
+
+conclusion
+نتیجه
+The conclusion follows from the assumptions.
+نتیجه از فرض‌ها به دست می‌آید.
+noun
+
+axiom
+اصل
+An axiom is accepted without proof.
+یک اصل بدون اثبات پذیرفته می‌شود.
+noun
+
+postulate
+اصل موضوع
+The postulate is used in geometry.
+این اصل موضوع در هندسه استفاده می‌شود.
+noun
+
+geometry
+هندسه
+Geometry studies shapes and their properties.
+هندسه اشکال و ویژگی‌های آن‌ها را بررسی می‌کند.
+noun
+
+Euclidean
+اقلیدسی
+Euclidean geometry studies flat spaces.
+هندسه اقلیدسی فضاهای تخت را بررسی می‌کند.
+adjective
+
+analytic
+تحلیلی
+Analytic geometry uses coordinates.
+هندسه تحلیلی از مختصات استفاده می‌کند.
+adjective
+
+calculus
+حساب دیفرانسیل و انتگرال
+Calculus studies change and accumulation.
+حساب دیفرانسیل و انتگرال تغییر و انباشت را بررسی می‌کند.
+noun
+
+limit
+حد
+Find the limit of the function.
+حد تابع را پیدا کنید.
+noun
+
+derivative
+مشتق
+The derivative measures the rate of change.
+مشتق نرخ تغییر را اندازه‌گیری می‌کند.
+noun
+
+integral
+انتگرال
+The integral represents accumulated quantity.
+انتگرال مقدار انباشته‌شده را نشان می‌دهد.
+noun
+
+differentiation
+مشتق‌گیری
+Differentiation is used to find derivatives.
+از مشتق‌گیری برای یافتن مشتق‌ها استفاده می‌شود.
+noun
+
+integration
+انتگرال‌گیری
+Integration can find the area under a curve.
+انتگرال‌گیری می‌تواند مساحت زیر یک منحنی را پیدا کند.
+noun
+
+function
+تابع
+The function is continuous on the interval.
+تابع روی بازه پیوسته است.
+noun
+
+continuous
+پیوسته
+The function is continuous at zero.
+تابع در صفر پیوسته است.
+adjective
+
+discontinuous
+ناپیوسته
+The function is discontinuous at one.
+تابع در یک ناپیوسته است.
+adjective
+
+sequence
+دنباله
+The sequence converges to zero.
+دنباله به صفر همگرا می‌شود.
+noun
+
+converge
+همگرا شدن
+The sequence converges to a finite value.
+دنباله به یک مقدار متناهی همگرا می‌شود.
+verb
+
+diverge
+واگرا شدن
+The series diverges.
+سری واگرا می‌شود.
+verb
+
+matrix
+ماتریس
+The matrix has three rows.
+ماتریس سه سطر دارد.
+noun
+
+vector
+بردار
+The vector points to the right.
+بردار به سمت راست اشاره می‌کند.
+noun
+
+scalar
+نرده‌ای
+Temperature is a scalar quantity.
+دما یک کمیت نرده‌ای است.
+noun
+
+magnitude
+اندازه
+Calculate the magnitude of the vector.
+اندازه بردار را محاسبه کنید.
+noun
+
+dimension
+بُعد
+A line has one dimension.
+یک خط یک بُعد دارد.
+noun
+
+space
+فضا
+The point exists in three-dimensional space.
+نقطه در فضای سه‌بعدی قرار دارد.
+noun
+
+coordinate
+مختصات
+The coordinates determine the position of a point.
+مختصات موقعیت یک نقطه را تعیین می‌کنند.
+noun
+
+probability
+احتمال
+The probability of getting heads is one half.
+احتمال آمدن شیر یک دوم است.
+noun
+
+event
+رویداد
+The event has a probability of zero.
+این رویداد احتمال صفر دارد.
+noun
+
+outcome
+نتیجه
+Each outcome has a probability.
+هر نتیجه‌ای یک احتمال دارد.
+noun
+
+sample
+نمونه
+The sample contains one hundred observations.
+نمونه شامل صد مشاهده است.
+noun
+
+statistics
+آمار
+Statistics helps analyze data.
+آمار به تحلیل داده‌ها کمک می‌کند.
+noun
+
+data
+داده
+The data are shown in a table.
+داده‌ها در یک جدول نشان داده شده‌اند.
+noun
+
+mean
+میانگین
+The mean of the numbers is ten.
+میانگین اعداد ده است.
+noun
+
+median
+میانه
+The median is the middle value.
+میانه مقدار وسط است.
+noun
+
+mode
+نما
+The mode is the most frequent value.
+نما پرتکرارترین مقدار است.
+noun
+
+average
+میانگین
+Calculate the average of the scores.
+میانگین نمرات را محاسبه کنید.
+noun
+
+variance
+واریانس
+The variance measures data dispersion.
+واریانس پراکندگی داده‌ها را اندازه‌گیری می‌کند.
+noun
+
+deviation
+انحراف
+The standard deviation is small.
+انحراف معیار کوچک است.
+noun
+
+distribution
+توزیع
+The data follow a normal distribution.
+داده‌ها از یک توزیع نرمال پیروی می‌کنند.
+noun
+
+probable
+محتمل
+This outcome is highly probable.
+این نتیجه بسیار محتمل است.
+adjective
+
+random
+تصادفی
+The number was chosen at random.
+عدد به صورت تصادفی انتخاب شد.
+adjective
+
+permutation
+جایگشت
+Calculate the number of permutations.
+تعداد جایگشت‌ها را محاسبه کنید.
+noun
+
+combination
+ترکیب
+A combination ignores the order of elements.
+در ترکیب ترتیب اعضا نادیده گرفته می‌شود.
+noun
+
+factorial
+فاکتوریل
+Five factorial is one hundred twenty.
+فاکتوریل پنج صد و بیست است.
+noun
+
+factor
+عامل
+Three is a factor of twelve.
+سه یکی از عوامل دوازده است.
+noun
+
+multiple
+مضرب
+Twenty is a multiple of five.
+بیست مضربی از پنج است.
+noun
+
+divisor
+مقسوم‌علیه
+Three is a divisor of twelve.
+سه مقسوم‌علیه دوازده است.
+noun
+
+divisible
+بخش‌پذیر
+Twenty is divisible by five.
+بیست بر پنج بخش‌پذیر است.
+adjective
+
+exponent
+توان
+The exponent is three.
+توان سه است.
+noun
+
+power
+توان
+Two to the third power is eight.
+دو به توان سه برابر با هشت است.
+noun
+
+base
+پایه
+The base of the power is two.
+پایه توان دو است.
+noun
+
+square
+مربع
+The square of six is thirty-six.
+مربع شش سی و شش است.
+noun
+
+cube
+مکعب
+The cube of three is twenty-seven.
+مکعب سه بیست و هفت است.
+noun
+
+root
+ریشه
+The square root of sixteen is four.
+جذر شانزده چهار است.
+noun
+
+radical
+رادیکال
+Simplify the radical expression.
+عبارت رادیکالی را ساده کنید.
+noun
+
+logarithm
+لگاریتم
+The logarithm of one is zero.
+لگاریتم یک صفر است.
+noun
+
+exponential
+نمایی
+The function has exponential growth.
+تابع رشد نمایی دارد.
+adjective
+
+linear
+خطی
+The equation is linear.
+معادله خطی است.
+adjective
+
+quadratic
+درجه دوم
+This is a quadratic equation.
+این یک معادله درجه دوم است.
+adjective
+
+polynomial
+چندجمله‌ای
+The expression is a polynomial.
+این عبارت یک چندجمله‌ای است.
+noun
+
+monomial
+تک‌جمله‌ای
+The expression is a monomial.
+این عبارت یک تک‌جمله‌ای است.
+noun
+
+binomial
+دوجمله‌ای
+The expression is a binomial.
+این عبارت یک دوجمله‌ای است.
+noun
+
+trinomial
+سه‌جمله‌ای
+The expression is a trinomial.
+این عبارت یک سه‌جمله‌ای است.
+noun
+
+degree
+درجه
+The polynomial has degree four.
+این چندجمله‌ای درجه چهار دارد.
+noun
+
+coefficient
+ضریب
+The leading coefficient is positive.
+ضریب پیشرو مثبت است.
+noun
+
+factorize
+تجزیه کردن
+Factorize the polynomial.
+چندجمله‌ای را تجزیه کنید.
+verb
+
+simplify
+ساده کردن
+Simplify the fraction.
+کسر را ساده کنید.
+verb
+
+solve
+حل کردن
+Solve the equation for x.
+معادله را برای x حل کنید.
+verb
+
+calculate
+محاسبه کردن
+Calculate the area of the triangle.
+مساحت مثلث را محاسبه کنید.
+verb
+
+estimate
+تخمین زدن
+Estimate the value of the expression.
+مقدار عبارت را تخمین بزنید.
+verb
+
+approximate
+تقریب زدن
+Approximate the answer to two decimal places.
+پاسخ را تا دو رقم اعشار تقریب بزنید.
+verb
+
+round
+گرد کردن
+Round the number to the nearest integer.
+عدد را به نزدیک‌ترین عدد صحیح گرد کنید.
+verb
+
+equal
+برابر
+Two plus three is equal to five.
+دو به علاوه سه برابر پنج است.
+adjective
+
+equivalent
+معادل
+These two fractions are equivalent.
+این دو کسر معادل هستند.
+adjective
+
+greater
+بزرگ‌تر
+Seven is greater than four.
+هفت از چهار بزرگ‌تر است.
+adjective
+
+less
+کمتر
+Three is less than eight.
+سه از هشت کمتر است.
+adjective
+
+greater
+بیشتر
+The first value is greater than the second.
+مقدار اول از مقدار دوم بیشتر است.
+adjective
+
+inequality
+نامعادله
+Solve the inequality.
+نامعادله را حل کنید.
+noun
+
+interval
+بازه
+The solution lies in this interval.
+جواب در این بازه قرار دارد.
+noun
+
+approximation
+تقریب
+This is a good approximation.
+این یک تقریب خوب است.
+noun
+
+error
+خطا
+The calculation contains a small error.
+محاسبه دارای یک خطای کوچک است.
+noun
+
+accuracy
+دقت
+The measurement has high accuracy.
+این اندازه‌گیری دقت بالایی دارد.
+noun
+
+precision
+دقت
+The instrument provides high precision.
+این ابزار دقت بالایی ارائه می‌دهد.
+noun
+
+measure
+اندازه‌گیری کردن
+Measure the length of the line.
+طول خط را اندازه‌گیری کنید.
+verb
+
+quantity
+کمیت
+Length is a physical quantity.
+طول یک کمیت فیزیکی است.
+noun
+
+unit
+واحد
+The unit of length is the meter.
+واحد طول متر است.
+noun
+
+metric
+متریک
+The metric system uses standard units.
+سیستم متریک از واحدهای استاندارد استفاده می‌کند.
+adjective
+
+length
+طول
+The length is ten meters.
+طول ده متر است.
+noun
+
+width
+عرض
+The width is five meters.
+عرض پنج متر است.
+noun
+
+height
+ارتفاع
+The height of the triangle is six centimeters.
+ارتفاع مثلث شش سانتی‌متر است.
+noun
+
+depth
+عمق
+The depth of the pool is two meters.
+عمق استخر دو متر است.
+noun
+
+distance
+فاصله
+The distance between the points is five units.
+فاصله بین نقاط پنج واحد است.
+noun
+
+position
+موقعیت
+The position of the point changes.
+موقعیت نقطه تغییر می‌کند.
+noun
+
+rate
+نرخ
+The rate of change is constant.
+نرخ تغییر ثابت است.
+noun
+
+proportion
+تناسب
+The quantities are directly proportional.
+کمیت‌ها با یکدیگر تناسب مستقیم دارند.
+noun
+
+correlation
+همبستگی
+There is a strong correlation between the variables.
+بین متغیرها همبستگی زیادی وجود دارد.
+noun
+
+variable
+متغیر
+The dependent variable changes with the input.
+متغیر وابسته با ورودی تغییر می‌کند.
+noun
+
+independent
+مستقل
+The independent variable is controlled by the researcher.
+متغیر مستقل توسط پژوهشگر کنترل می‌شود.
+adjective
+
+dependent
+وابسته
+The dependent variable is measured.
+متغیر وابسته اندازه‌گیری می‌شود.
+adjective
+
+maximum
+بیشینه
+Find the maximum value of the function.
+بیشینه تابع را پیدا کنید.
+noun
+
+minimum
+کمینه
+Find the minimum value of the function.
+کمینه تابع را پیدا کنید.
+noun
+
+optimum
+بهینه
+The solution gives the optimum value.
+جواب مقدار بهینه را می‌دهد.
+adjective
+
+absolute
+مطلق
+The absolute maximum occurs at this point.
+بیشینه مطلق در این نقطه رخ می‌دهد.
+adjective
+
+local
+موضعی
+The function has a local minimum.
+تابع یک کمینه موضعی دارد.
+adjective
+
+critical
+بحرانی
+Find the critical points of the function.
+نقاط بحرانی تابع را پیدا کنید.
+adjective
+
+symmetric
+متقارن
+The graph is symmetric about the y-axis.
+نمودار نسبت به محور y متقارن است.
+adjective
+
+asymptote
+مجانب
+The curve approaches the vertical asymptote.
+منحنی به مجانب قائم نزدیک می‌شود.
+noun
+
+curve
+منحنی
+The curve passes through the origin.
+منحنی از مبدأ عبور می‌کند.
+noun
+
+tangent
+مماس
+The tangent touches the circle at one point.
+مماس در یک نقطه دایره را لمس می‌کند.
+noun
+
+secant
+قاطع
+A secant intersects a circle at two points.
+خط قاطع دایره را در دو نقطه قطع می‌کند.
+noun
+
+arc
+کمان
+The arc is part of the circle.
+کمان بخشی از دایره است.
+noun
+
+chord
+وتر
+The chord connects two points on the circle.
+وتر دو نقطه روی دایره را به هم وصل می‌کند.
+noun
+
+sector
+قطاع
+The sector is one quarter of the circle.
+قطاع یک‌چهارم دایره است.
+noun
+
+central
+مرکزی
+The central angle measures sixty degrees.
+زاویه مرکزی شصت درجه است.
+adjective
+
+theoretical
+نظری
+The result is theoretically possible.
+این نتیجه از نظر نظری ممکن است.
+adjective
+
+empirical
+تجربی
+The empirical data support the model.
+داده‌های تجربی از مدل پشتیبانی می‌کنند.
+adjective
+
+model
+مدل
+The mathematical model predicts the result.
+مدل ریاضی نتیجه را پیش‌بینی می‌کند.
+noun
+
+algorithm
+الگوریتم
+The algorithm solves the problem efficiently.
+الگوریتم مسئله را به‌طور کارآمد حل می‌کند.
+noun
+
+logic
+منطق
+Mathematical logic studies valid reasoning.
+منطق ریاضی استدلال معتبر را بررسی می‌کند.
+noun
+
+proof
+اثبات
+The proof uses mathematical induction.
+اثبات از استقرا ریاضی استفاده می‌کند.
+noun
+
+induction
+استقرا
+Mathematical induction proves statements for all natural numbers.
+استقرای ریاضی گزاره‌ها را برای همه اعداد طبیعی اثبات می‌کند.
+noun
+
+recursion
+بازگشت
+The sequence is defined by recursion.
+دنباله به صورت بازگشتی تعریف شده است.
+noun
+
+iteration
+تکرار
+The method requires several iterations.
+این روش به چندین تکرار نیاز دارد.
+noun
+
+solution
+جواب
+The equation has two solutions.
+معادله دو جواب دارد.
+noun
+
+root
+ریشه
+The value of x is a root of the equation.
+مقدار x یک ریشه معادله است.
+noun
+
+identity
+همانی
+This equation is a mathematical identity.
+این معادله یک همانی ریاضی است.
+noun
+
+theory
+نظریه
+The theory explains the mathematical structure.
+این نظریه ساختار ریاضی را توضیح می‌دهد.
+noun
+
+method
+روش
+This method is useful for solving equations.
+این روش برای حل معادلات مفید است.
+noun
+
+proof
+برهان
+The theorem requires a formal proof.
+این قضیه به یک برهان رسمی نیاز دارد.
+noun
+
+logic
+منطق
+Logic is fundamental to mathematics.
+منطق برای ریاضیات بنیادی است.
+noun
+
+mathematics
+ریاضیات
+Mathematics is the study of numbers, structures, and patterns.
+ریاضیات مطالعه اعداد، ساختارها و الگوها است.
+noun
