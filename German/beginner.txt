@@ -1,0 +1,1205 @@
+der
+ـِ، از آنِ
+Das Auto der Frau ist neu.
+ماشین زن جدید است.
+Artikel
+
+die
+آن، این؛ حرف تعریف معین
+Die Frau ist nett.
+زن مهربان است.
+Artikel
+
+das
+آن، این؛ حرف تعریف معین
+Das Kind spielt.
+کودک بازی می‌کند.
+Artikel
+
+ein
+یک
+Ich habe ein Buch.
+من یک کتاب دارم.
+Artikel
+
+eine
+یک
+Sie hat eine Katze.
+او یک گربه دارد.
+Artikel
+
+ich
+من
+Ich bin müde.
+من خسته هستم.
+Pronomen
+
+du
+تو
+Du bist nett.
+تو مهربان هستی.
+Pronomen
+
+er
+او، وی (مذکر)
+Er ist mein Bruder.
+او برادر من است.
+Pronomen
+
+sie
+او، وی (مونث)؛ آنها
+Sie ist meine Schwester.
+او خواهر من است.
+Pronomen
+
+wir
+ما
+Wir lernen Deutsch.
+ما آلمانی یاد می‌گیریم.
+Pronomen
+
+ihr
+شما (جمع)
+Ihr seid sehr nett.
+شما خیلی مهربان هستید.
+Pronomen
+
+Sie
+شما (رسمی)
+Wie heißen Sie?
+نام شما چیست؟
+Pronomen
+
+sein
+بودن
+Ich bin Student.
+من دانشجو هستم.
+Verb
+
+haben
+داشتن
+Wir haben ein Haus.
+ما یک خانه داریم.
+Verb
+
+machen
+انجام دادن، ساختن
+Was machst du?
+چه کار می‌کنی؟
+Verb
+
+gehen
+رفتن
+Ich gehe nach Hause.
+من به خانه می‌روم.
+Verb
+
+kommen
+آمدن
+Er kommt aus Deutschland.
+او از آلمان می‌آید.
+Verb
+
+wohnen
+ساکن بودن
+Ich wohne in Berlin.
+من در برلین زندگی می‌کنم.
+Verb
+
+lernen
+یاد گرفتن، آموختن
+Ich lerne Deutsch.
+من آلمانی یاد می‌گیرم.
+Verb
+
+sprechen
+صحبت کردن
+Ich spreche Deutsch.
+من آلمانی صحبت می‌کنم.
+Verb
+
+lesen
+خواندن
+Ich lese ein Buch.
+من یک کتاب می‌خوانم.
+Verb
+
+schreiben
+نوشتن
+Sie schreibt einen Brief.
+او یک نامه می‌نویسد.
+Verb
+
+essen
+خوردن
+Wir essen Brot.
+ما نان می‌خوریم.
+Verb
+
+trinken
+نوشیدن
+Ich trinke Wasser.
+من آب می‌نوشم.
+Verb
+
+schlafen
+خوابیدن
+Das Kind schläft.
+کودک می‌خوابد.
+Verb
+
+arbeiten
+کار کردن
+Mein Vater arbeitet heute.
+پدرم امروز کار می‌کند.
+Verb
+
+spielen
+بازی کردن
+Die Kinder spielen im Garten.
+کودکان در باغ بازی می‌کنند.
+Verb
+
+kaufen
+خریدن
+Ich kaufe ein Buch.
+من یک کتاب می‌خرم.
+Verb
+
+verkaufen
+فروختن
+Er verkauft sein Auto.
+او ماشینش را می‌فروشد.
+Verb
+
+sehen
+دیدن
+Ich sehe einen Film.
+من یک فیلم می‌بینم.
+Verb
+
+hören
+شنیدن، گوش دادن
+Ich höre Musik.
+من به موسیقی گوش می‌دهم.
+Verb
+
+sagen
+گفتن
+Er sagt die Wahrheit.
+او حقیقت را می‌گوید.
+Verb
+
+fragen
+پرسیدن
+Ich frage den Lehrer.
+من از معلم سؤال می‌کنم.
+Verb
+
+antworten
+پاسخ دادن
+Sie antwortet auf die Frage.
+او به سؤال پاسخ می‌دهد.
+Verb
+
+helfen
+کمک کردن
+Ich helfe meiner Mutter.
+من به مادرم کمک می‌کنم.
+Verb
+
+lieben
+دوست داشتن، عاشق بودن
+Ich liebe meine Familie.
+من خانواده‌ام را دوست دارم.
+Verb
+
+mögen
+دوست داشتن
+Ich mag Kaffee.
+من قهوه دوست دارم.
+Verb
+
+brauchen
+نیاز داشتن
+Ich brauche Hilfe.
+من به کمک نیاز دارم.
+Verb
+
+finden
+پیدا کردن
+Ich finde meinen Schlüssel.
+من کلیدم را پیدا می‌کنم.
+Verb
+
+geben
+دادن
+Ich gebe dir das Buch.
+من کتاب را به تو می‌دهم.
+Verb
+
+nehmen
+گرفتن
+Ich nehme den Bus.
+من با اتوبوس می‌روم.
+Verb
+
+öffnen
+باز کردن
+Ich öffne das Fenster.
+من پنجره را باز می‌کنم.
+Verb
+
+schließen
+بستن
+Bitte schließen Sie die Tür.
+لطفاً در را ببندید.
+Verb
+
+fahren
+راندن، رفتن با وسیله نقلیه
+Ich fahre mit dem Bus.
+من با اتوبوس می‌روم.
+Verb
+
+laufen
+راه رفتن، دویدن
+Ich laufe im Park.
+من در پارک راه می‌روم.
+Verb
+
+bleiben
+ماندن
+Ich bleibe zu Hause.
+من در خانه می‌مانم.
+Verb
+
+stehen
+ایستادن
+Das Buch steht auf dem Tisch.
+کتاب روی میز قرار دارد.
+Verb
+
+sitzen
+نشستن
+Ich sitze auf dem Stuhl.
+من روی صندلی نشسته‌ام.
+Verb
+
+liegen
+دراز کشیدن، قرار داشتن
+Das Buch liegt auf dem Tisch.
+کتاب روی میز قرار دارد.
+Verb
+
+kommen
+آمدن
+Meine Freunde kommen morgen.
+دوستانم فردا می‌آیند.
+Verb
+
+heißen
+نام داشتن
+Ich heiße Anna.
+نام من آنا است.
+Verb
+
+leben
+زندگی کردن
+Ich lebe in Deutschland.
+من در آلمان زندگی می‌کنم.
+Verb
+
+alt
+پیر، قدیمی
+Mein Großvater ist alt.
+پدربزرگم پیر است.
+Adjektiv
+
+jung
+جوان
+Meine Schwester ist jung.
+خواهرم جوان است.
+Adjektiv
+
+groß
+بزرگ، قدبلند
+Das Haus ist groß.
+خانه بزرگ است.
+Adjektiv
+
+klein
+کوچک، کوتاه
+Die Wohnung ist klein.
+آپارتمان کوچک است.
+Adjektiv
+
+gut
+خوب
+Das Essen ist gut.
+غذا خوب است.
+Adjektiv
+
+schlecht
+بد
+Das Wetter ist schlecht.
+هوا بد است.
+Adjektiv
+
+schön
+زیبا
+Die Stadt ist schön.
+شهر زیبا است.
+Adjektiv
+
+hässlich
+زشت
+Das Bild ist hässlich.
+تصویر زشت است.
+Adjektiv
+
+neu
+جدید
+Mein Handy ist neu.
+گوشی من جدید است.
+Adjektiv
+
+teuer
+گران
+Das Auto ist teuer.
+ماشین گران است.
+Adjektiv
+
+billig
+ارزان
+Das T-Shirt ist billig.
+تی‌شرت ارزان است.
+Adjektiv
+
+schnell
+سریع
+Der Zug ist schnell.
+قطار سریع است.
+Adjektiv
+
+langsam
+آهسته، کند
+Der Bus ist langsam.
+اتوبوس کند است.
+Adjektiv
+
+leicht
+سبک، آسان
+Die Tasche ist leicht.
+کیف سبک است.
+Adjektiv
+
+schwer
+سنگین، دشوار
+Die Tasche ist schwer.
+کیف سنگین است.
+Adjektiv
+
+richtig
+درست
+Die Antwort ist richtig.
+پاسخ درست است.
+Adjektiv
+
+falsch
+غلط، نادرست
+Das ist falsch.
+این اشتباه است.
+Adjektiv
+
+warm
+گرم
+Das Wasser ist warm.
+آب گرم است.
+Adjektiv
+
+kalt
+سرد
+Das Wasser ist kalt.
+آب سرد است.
+Adjektiv
+
+heiß
+داغ، گرم
+Der Kaffee ist heiß.
+قهوه داغ است.
+Adjektiv
+
+müde
+خسته
+Ich bin müde.
+من خسته هستم.
+Adjektiv
+
+krank
+بیمار
+Er ist krank.
+او بیمار است.
+Adjektiv
+
+gesund
+سالم
+Ich bin gesund.
+من سالم هستم.
+Adjektiv
+
+glücklich
+خوشحال
+Sie ist glücklich.
+او خوشحال است.
+Adjektiv
+
+traurig
+غمگین
+Das Kind ist traurig.
+کودک غمگین است.
+Adjektiv
+
+hungrig
+گرسنه
+Ich bin hungrig.
+من گرسنه هستم.
+Adjektiv
+
+durstig
+تشنه
+Ich bin durstig.
+من تشنه هستم.
+Adjektiv
+
+nett
+مهربان، خوش‌برخورد
+Er ist sehr nett.
+او بسیار مهربان است.
+Adjektiv
+
+freundlich
+دوستانه، مهربان
+Die Lehrerin ist freundlich.
+معلم زن مهربان است.
+Adjektiv
+
+wichtig
+مهم
+Das ist wichtig.
+این مهم است.
+Adjektiv
+
+richtig
+درست
+Das ist richtig.
+این درست است.
+Adjektiv
+
+heute
+امروز
+Heute ist Montag.
+امروز دوشنبه است.
+Adverb
+
+morgen
+فردا
+Morgen habe ich Zeit.
+فردا وقت دارم.
+Adverb
+
+gestern
+دیروز
+Gestern war ich zu Hause.
+دیروز در خانه بودم.
+Adverb
+
+jetzt
+اکنون، الان
+Ich bin jetzt zu Hause.
+من الان در خانه هستم.
+Adverb
+
+hier
+اینجا
+Ich bin hier.
+من اینجا هستم.
+Adverb
+
+dort
+آنجا
+Das Auto steht dort.
+ماشین آنجا قرار دارد.
+Adverb
+
+immer
+همیشه
+Ich trinke immer Wasser.
+من همیشه آب می‌نوشم.
+Adverb
+
+oft
+اغلب
+Ich lese oft.
+من اغلب مطالعه می‌کنم.
+Adverb
+
+manchmal
+گاهی
+Ich gehe manchmal ins Kino.
+من گاهی به سینما می‌روم.
+Adverb
+
+nie
+هرگز
+Ich rauche nie.
+من هرگز سیگار نمی‌کشم.
+Adverb
+
+sehr
+بسیار
+Das ist sehr gut.
+این بسیار خوب است.
+Adverb
+
+auch
+هم، نیز
+Ich bin auch Student.
+من هم دانشجو هستم.
+Adverb
+
+nur
+فقط
+Ich habe nur zehn Euro.
+من فقط ده یورو دارم.
+Adverb
+
+schon
+قبلاً، دیگر
+Ich bin schon da.
+من دیگر اینجا هستم.
+Adverb
+
+noch
+هنوز، باز
+Ich bin noch müde.
+من هنوز خسته هستم.
+Adverb
+
+gern
+با میل، دوست داشتن
+Ich lese gern.
+من دوست دارم مطالعه کنم.
+Adverb
+
+und
+و
+Ich trinke Tee und Kaffee.
+من چای و قهوه می‌نوشم.
+Konjunktion
+
+oder
+یا
+Möchtest du Tee oder Kaffee?
+چای می‌خواهی یا قهوه؟
+Konjunktion
+
+aber
+اما
+Ich bin müde, aber ich arbeite.
+من خسته‌ام، اما کار می‌کنم.
+Konjunktion
+
+weil
+زیرا، چون
+Ich bleibe zu Hause, weil ich krank bin.
+من در خانه می‌مانم، چون بیمار هستم.
+Konjunktion
+
+wenn
+اگر، وقتی که
+Wenn ich Zeit habe, lese ich.
+اگر وقت داشته باشم، مطالعه می‌کنم.
+Konjunktion
+
+ja
+بله
+Ja, ich komme.
+بله، می‌آیم.
+Partikel
+
+nein
+نه
+Nein, danke.
+نه، ممنون.
+Partikel
+
+bitte
+لطفاً، خواهش می‌کنم
+Ein Wasser, bitte.
+لطفاً یک آب.
+Partikel
+
+danke
+ممنون، متشکرم
+Danke für deine Hilfe.
+ممنون از کمکت.
+Partikel
+
+Hallo
+سلام
+Hallo, wie geht es dir?
+سلام، حالت چطور است؟
+Interjektion
+
+Tschüss
+خداحافظ
+Tschüss, bis morgen!
+خداحافظ، تا فردا!
+Interjektion
+
+Mann
+مرد
+Der Mann ist mein Vater.
+آن مرد پدر من است.
+Substantiv
+
+Frau
+زن
+Die Frau ist meine Mutter.
+آن زن مادر من است.
+Substantiv
+
+Kind
+کودک
+Das Kind spielt im Garten.
+کودک در باغ بازی می‌کند.
+Substantiv
+
+Junge
+پسر
+Der Junge liest ein Buch.
+پسر یک کتاب می‌خواند.
+Substantiv
+
+Mädchen
+دختر
+Das Mädchen ist nett.
+دختر مهربان است.
+Substantiv
+
+Mutter
+مادر
+Meine Mutter kocht.
+مادرم آشپزی می‌کند.
+Substantiv
+
+Vater
+پدر
+Mein Vater arbeitet.
+پدرم کار می‌کند.
+Substantiv
+
+Bruder
+برادر
+Mein Bruder ist jung.
+برادرم جوان است.
+Substantiv
+
+Schwester
+خواهر
+Meine Schwester lernt Deutsch.
+خواهرم آلمانی یاد می‌گیرد.
+Substantiv
+
+Freund
+دوست، دوست‌پسر
+Mein Freund kommt heute.
+دوستم امروز می‌آید.
+Substantiv
+
+Freundin
+دوست، دوست‌دختر
+Meine Freundin ist nett.
+دوستم مهربان است.
+Substantiv
+
+Familie
+خانواده
+Meine Familie ist groß.
+خانواده من بزرگ است.
+Substantiv
+
+Haus
+خانه
+Das Haus ist schön.
+خانه زیبا است.
+Substantiv
+
+Wohnung
+آپارتمان، خانه
+Meine Wohnung ist klein.
+آپارتمان من کوچک است.
+Substantiv
+
+Zimmer
+اتاق
+Mein Zimmer ist groß.
+اتاق من بزرگ است.
+Substantiv
+
+Tür
+در
+Die Tür ist offen.
+در باز است.
+Substantiv
+
+Fenster
+پنجره
+Das Fenster ist offen.
+پنجره باز است.
+Substantiv
+
+Tisch
+میز
+Das Buch liegt auf dem Tisch.
+کتاب روی میز است.
+Substantiv
+
+Stuhl
+صندلی
+Ich sitze auf dem Stuhl.
+من روی صندلی نشسته‌ام.
+Substantiv
+
+Bett
+تختخواب
+Das Bett ist bequem.
+تخت راحت است.
+Substantiv
+
+Küche
+آشپزخانه
+Die Küche ist klein.
+آشپزخانه کوچک است.
+Substantiv
+
+Bad
+حمام، دستشویی
+Das Bad ist sauber.
+حمام تمیز است.
+Substantiv
+
+Garten
+باغ
+Die Kinder spielen im Garten.
+کودکان در باغ بازی می‌کنند.
+Substantiv
+
+Schule
+مدرسه
+Die Kinder gehen zur Schule.
+کودکان به مدرسه می‌روند.
+Substantiv
+
+Lehrer
+معلم (مرد)
+Der Lehrer ist nett.
+معلم مهربان است.
+Substantiv
+
+Lehrerin
+معلم (زن)
+Die Lehrerin spricht Deutsch.
+معلم زن آلمانی صحبت می‌کند.
+Substantiv
+
+Schüler
+دانش‌آموز
+Der Schüler lernt Deutsch.
+دانش‌آموز آلمانی یاد می‌گیرد.
+Substantiv
+
+Buch
+کتاب
+Ich lese ein Buch.
+من یک کتاب می‌خوانم.
+Substantiv
+
+Stift
+خودکار، قلم
+Ich brauche einen Stift.
+من به یک خودکار نیاز دارم.
+Substantiv
+
+Papier
+کاغذ
+Das Papier ist weiß.
+کاغذ سفید است.
+Substantiv
+
+Handy
+تلفن همراه
+Mein Handy ist neu.
+گوشی من جدید است.
+Substantiv
+
+Computer
+رایانه
+Der Computer ist neu.
+رایانه جدید است.
+Substantiv
+
+Auto
+ماشین
+Mein Auto ist alt.
+ماشین من قدیمی است.
+Substantiv
+
+Bus
+اتوبوس
+Ich fahre mit dem Bus.
+من با اتوبوس می‌روم.
+Substantiv
+
+Zug
+قطار
+Der Zug kommt um acht Uhr.
+قطار ساعت هشت می‌آید.
+Substantiv
+
+Bahnhof
+ایستگاه قطار
+Der Bahnhof ist hier.
+ایستگاه قطار اینجاست.
+Substantiv
+
+Stadt
+شهر
+Die Stadt ist groß.
+شهر بزرگ است.
+Substantiv
+
+Land
+کشور، سرزمین
+Deutschland ist ein Land.
+آلمان یک کشور است.
+Substantiv
+
+Straße
+خیابان
+Die Straße ist lang.
+خیابان طولانی است.
+Substantiv
+
+Laden
+مغازه، فروشگاه
+Der Laden ist offen.
+فروشگاه باز است.
+Substantiv
+
+Supermarkt
+سوپرمارکت
+Ich gehe zum Supermarkt.
+من به سوپرمارکت می‌روم.
+Substantiv
+
+Geld
+پول
+Ich habe kein Geld.
+من پول ندارم.
+Substantiv
+
+Euro
+یورو
+Das kostet zehn Euro.
+این ده یورو قیمت دارد.
+Substantiv
+
+Essen
+غذا
+Das Essen ist lecker.
+غذا خوشمزه است.
+Substantiv
+
+Brot
+نان
+Ich esse Brot.
+من نان می‌خورم.
+Substantiv
+
+Wasser
+آب
+Ich trinke Wasser.
+من آب می‌نوشم.
+Substantiv
+
+Milch
+شیر
+Das Kind trinkt Milch.
+کودک شیر می‌نوشد.
+Substantiv
+
+Kaffee
+قهوه
+Ich trinke gern Kaffee.
+من دوست دارم قهوه بنوشم.
+Substantiv
+
+Tee
+چای
+Möchtest du Tee?
+چای می‌خواهی؟
+Substantiv
+
+Apfel
+سیب
+Der Apfel ist rot.
+سیب قرمز است.
+Substantiv
+
+Banane
+موز
+Die Banane ist gelb.
+موز زرد است.
+Substantiv
+
+Fleisch
+گوشت
+Ich esse kein Fleisch.
+من گوشت نمی‌خورم.
+Substantiv
+
+Fisch
+ماهی
+Der Fisch ist frisch.
+ماهی تازه است.
+Substantiv
+
+Salz
+نمک
+Das Essen braucht Salz.
+غذا به نمک نیاز دارد.
+Substantiv
+
+Zucker
+شکر
+Ich nehme Zucker im Kaffee.
+من در قهوه شکر می‌ریزم.
+Substantiv
+
+Frühstück
+صبحانه
+Das Frühstück ist um acht Uhr.
+صبحانه ساعت هشت است.
+Substantiv
+
+Mittagessen
+ناهار
+Das Mittagessen ist fertig.
+ناهار آماده است.
+Substantiv
+
+Abendessen
+شام
+Das Abendessen ist lecker.
+شام خوشمزه است.
+Substantiv
+
+Uhr
+ساعت
+Wie spät ist es? — Es ist drei Uhr.
+ساعت چند است؟ — ساعت سه است.
+Substantiv
+
+Tag
+روز
+Heute ist ein schöner Tag.
+امروز روز زیبایی است.
+Substantiv
+
+Woche
+هفته
+Eine Woche hat sieben Tage.
+یک هفته هفت روز دارد.
+Substantiv
+
+Monat
+ماه
+Der Monat hat vier Wochen.
+ماه چهار هفته دارد.
+Substantiv
+
+Jahr
+سال
+Ein Jahr hat zwölf Monate.
+یک سال دوازده ماه دارد.
+Substantiv
+
+Morgen
+صبح
+Am Morgen trinke ich Kaffee.
+صبح قهوه می‌نوشم.
+Substantiv
+
+Abend
+عصر، شب
+Am Abend bin ich zu Hause.
+عصر در خانه هستم.
+Substantiv
+
+Nacht
+شب
+Gute Nacht!
+شب بخیر!
+Substantiv
+
+Montag
+دوشنبه
+Am Montag arbeite ich.
+دوشنبه کار می‌کنم.
+Substantiv
+
+Dienstag
+سه‌شنبه
+Am Dienstag lerne ich Deutsch.
+سه‌شنبه آلمانی یاد می‌گیرم.
+Substantiv
+
+Mittwoch
+چهارشنبه
+Am Mittwoch habe ich frei.
+چهارشنبه تعطیل هستم.
+Substantiv
+
+Donnerstag
+پنجشنبه
+Am Donnerstag gehe ich zur Schule.
+پنجشنبه به مدرسه می‌روم.
+Substantiv
+
+Freitag
+جمعه
+Am Freitag arbeite ich nicht.
+جمعه کار نمی‌کنم.
+Substantiv
+
+Samstag
+شنبه
+Am Samstag bleibe ich zu Hause.
+شنبه در خانه می‌مانم.
+Substantiv
+
+Sonntag
+یکشنبه
+Am Sonntag schlafe ich lange.
+یکشنبه مدت زیادی می‌خوابم.
+Substantiv
+
+rot
+قرمز
+Das Auto ist rot.
+ماشین قرمز است.
+Adjektiv
+
+blau
+آبی
+Der Himmel ist blau.
+آسمان آبی است.
+Adjektiv
+
+grün
+سبز
+Das Gras ist grün.
+چمن سبز است.
+Adjektiv
+
+gelb
+زرد
+Die Banane ist gelb.
+موز زرد است.
+Adjektiv
+
+schwarz
+سیاه
+Die Tasche ist schwarz.
+کیف سیاه است.
+Adjektiv
+
+weiß
+سفید
+Das Papier ist weiß.
+کاغذ سفید است.
+Adjektiv
+
+braun
+قهوه‌ای
+Der Tisch ist braun.
+میز قهوه‌ای است.
+Adjektiv
+
+grau
+خاکستری
+Der Hund ist grau.
+سگ خاکستری است.
+Adjektiv
+
+eins
+یک
+Ich habe eins.
+من یکی دارم.
+Numerale
+
+zwei
+دو
+Ich habe zwei Bücher.
+من دو کتاب دارم.
+Numerale
+
+drei
+سه
+Drei Kinder spielen.
+سه کودک بازی می‌کنند.
+Numerale
+
+vier
+چهار
+Ich habe vier Äpfel.
+من چهار سیب دارم.
+Numerale
+
+fünf
+پنج
+Fünf Euro, bitte.
+لطفاً پنج یورو.
+Numerale
+
+sechs
+شش
+Sechs Schüler lernen Deutsch.
+شش دانش‌آموز آلمانی یاد می‌گیرند.
+Numerale
+
+sieben
+هفت
+Eine Woche hat sieben Tage.
+یک هفته هفت روز دارد.
+Numerale
+
+acht
+هشت
+Der Zug kommt um acht Uhr.
+قطار ساعت هشت می‌آید.
+Numerale
+
+neun
+نه
+Ich stehe um neun Uhr auf.
+من ساعت نه بیدار می‌شوم.
+Numerale
+
+zehn
+ده
+Das kostet zehn Euro.
+این ده یورو قیمت دارد.
+Numerale
