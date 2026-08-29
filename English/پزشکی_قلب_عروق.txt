@@ -1,0 +1,1601 @@
+﻿Myocardium
+عضله قلب؛ میوکارد
+The myocardium contracts to pump blood.
+عضله قلب برای پمپاژ خون منقبض می‌شود.
+noun
+
+
+Endocardium
+آندوکارد؛ لایه داخلی قلب
+The endocardium lines the chambers of the heart.
+آندوکارد حفره‌های قلب را می‌پوشاند.
+noun
+
+
+Pericardium
+پریکارد؛ کیسه اطراف قلب
+The pericardium protects the heart from external injury.
+پریکارد از قلب در برابر آسیب خارجی محافظت می‌کند.
+noun
+
+
+Pericarditis
+پریکاردیت؛ التهاب پرده اطراف قلب
+Pericarditis can cause sharp chest pain.
+پریکاردیت می‌تواند باعث درد شدید در قفسه سینه شود.
+noun
+
+
+Myocarditis
+میوکاردیت؛ التهاب عضله قلب
+Viral infections can sometimes cause myocarditis.
+عفونت‌های ویروسی گاهی می‌توانند باعث میوکاردیت شوند.
+noun
+
+
+Endocarditis
+اندوکاردیت؛ التهاب پوشش داخلی قلب
+Endocarditis can damage the heart valves.
+اندوکاردیت می‌تواند به دریچه‌های قلب آسیب برساند.
+noun
+
+
+Coronary
+کرونری؛ مربوط به عروق تغذیه‌کننده قلب
+Coronary arteries supply blood to the heart muscle.
+شریان‌های کرونری خون را به عضله قلب می‌رسانند.
+adjective
+
+
+Circulation
+گردش خون
+Good circulation is important for healthy tissues.
+گردش خون مناسب برای بافت‌های سالم مهم است.
+noun
+
+
+Blood flow
+جریان خون
+Exercise can increase blood flow to the muscles.
+ورزش می‌تواند جریان خون به عضلات را افزایش دهد.
+noun
+
+
+Pulse
+نبض؛ ضربان قابل لمس شریان
+The doctor checked the patient's pulse.
+پزشک نبض بیمار را بررسی کرد.
+noun
+
+
+Heartbeat
+ضربان قلب
+His heartbeat became faster during exercise.
+ضربان قلب او هنگام ورزش سریع‌تر شد.
+noun
+
+
+Heart rate
+تعداد ضربان قلب؛ ضربان قلب
+The patient's heart rate was elevated.
+ضربان قلب بیمار افزایش یافته بود.
+noun
+
+
+Blood pressure
+فشار خون
+High blood pressure can damage blood vessels.
+فشار خون بالا می‌تواند به رگ‌های خونی آسیب برساند.
+noun
+
+
+Systolic
+سیستولیک؛ مربوط به فشار هنگام انقباض قلب
+The systolic pressure was slightly elevated.
+فشار سیستولیک کمی افزایش یافته بود.
+adjective
+
+
+Diastolic
+دیاستولیک؛ مربوط به فشار هنگام استراحت قلب
+The diastolic pressure was within the normal range.
+فشار دیاستولیک در محدوده طبیعی بود.
+adjective
+
+
+Systole
+سیستول؛ مرحله انقباض قلب
+During systole, the ventricles contract.
+در هنگام سیستول، بطن‌ها منقبض می‌شوند.
+noun
+
+
+Diastole
+دیاستول؛ مرحله استراحت و پر شدن قلب
+During diastole, the heart chambers fill with blood.
+در هنگام دیاستول، حفره‌های قلب از خون پر می‌شوند.
+noun
+
+
+Contraction
+انقباض
+Heart contraction pushes blood into the arteries.
+انقباض قلب خون را به داخل سرخرگ‌ها می‌راند.
+noun
+
+
+Relaxation
+شل‌شدن؛ استراحت عضله
+Heart muscle relaxation allows the chambers to fill.
+شل‌شدن عضله قلب اجازه می‌دهد حفره‌ها از خون پر شوند.
+noun
+
+
+Cardiac output
+برون‌ده قلبی؛ حجم خون پمپاژشده توسط قلب در دقیقه
+Cardiac output increases during physical activity.
+برون‌ده قلبی هنگام فعالیت بدنی افزایش می‌یابد.
+noun
+
+
+Stroke volume
+حجم ضربه‌ای؛ حجم خونی که در هر ضربان پمپاژ می‌شود
+Stroke volume can change during exercise.
+حجم ضربه‌ای می‌تواند هنگام ورزش تغییر کند.
+noun
+
+
+Ejection fraction
+کسر جهشی؛ درصد خون خارج‌شده از بطن در هر انقباض
+The echocardiogram showed a normal ejection fraction.
+اکوکاردیوگرام کسر جهشی طبیعی را نشان داد.
+noun
+
+
+Rhythm
+ریتم؛ نظم ضربان قلب
+The patient's heart rhythm was regular.
+ریتم قلب بیمار منظم بود.
+noun
+
+
+Sinus rhythm
+ریتم سینوسی؛ ریتم طبیعی قلب
+The ECG showed normal sinus rhythm.
+نوار قلب ریتم سینوسی طبیعی را نشان داد.
+noun
+
+
+Arrhythmia
+آریتمی؛ اختلال در ریتم قلب
+The patient was diagnosed with an arrhythmia.
+برای بیمار آریتمی تشخیص داده شد.
+noun
+
+
+Tachycardia
+تاکی‌کاردی؛ تندتپشی قلب
+Tachycardia may occur during intense exercise.
+تاکی‌کاردی ممکن است هنگام ورزش شدید رخ دهد.
+noun
+
+
+Bradycardia
+برادی‌کاردی؛ کندتپشی قلب
+Bradycardia can cause dizziness in some patients.
+برادی‌کاردی می‌تواند در برخی بیماران باعث سرگیجه شود.
+noun
+
+
+Palpitation
+تپش قلب؛ احساس ضربان غیرعادی قلب
+She reported frequent heart palpitations.
+او از تپش‌های مکرر قلب شکایت داشت.
+noun
+
+
+Fibrillation
+فیبریلاسیون؛ انقباض سریع و نامنظم عضله قلب
+Atrial fibrillation can cause an irregular heartbeat.
+فیبریلاسیون دهلیزی می‌تواند باعث ضربان نامنظم قلب شود.
+noun
+
+
+Atrial fibrillation
+فیبریلاسیون دهلیزی
+Atrial fibrillation is a common cardiac arrhythmia.
+فیبریلاسیون دهلیزی یک آریتمی شایع قلبی است.
+noun
+
+
+Ventricular fibrillation
+فیبریلاسیون بطنی
+Ventricular fibrillation is a medical emergency.
+فیبریلاسیون بطنی یک وضعیت اورژانسی پزشکی است.
+noun
+
+
+Atrial flutter
+فلوتر دهلیزی؛ تپش سریع و منظم دهلیزها
+Atrial flutter can cause a rapid heart rate.
+فلوتر دهلیزی می‌تواند باعث افزایش ضربان قلب شود.
+noun
+
+
+Conduction
+هدایت؛ انتقال پیام الکتریکی در قلب
+Abnormal conduction can affect the heart rhythm.
+هدایت غیرطبیعی می‌تواند بر ریتم قلب تأثیر بگذارد.
+noun
+
+
+Electrical impulse
+پیام الکتریکی؛ تکانه الکتریکی
+An electrical impulse triggers each heartbeat.
+یک پیام الکتریکی هر ضربان قلب را تحریک می‌کند.
+noun
+
+
+Sinoatrial node
+گره سینوسی‌دهلیزی؛ گره SA
+The sinoatrial node acts as the heart's natural pacemaker.
+گره سینوسی‌دهلیزی به‌عنوان ضربان‌ساز طبیعی قلب عمل می‌کند.
+noun
+
+
+Atrioventricular node
+گره دهلیزی‌بطنی؛ گره AV
+The atrioventricular node slows the electrical signal.
+گره دهلیزی‌بطنی سیگنال الکتریکی را کند می‌کند.
+noun
+
+
+Pacemaker
+ضربان‌ساز؛ دستگاه تنظیم‌کننده ضربان قلب
+The patient received an artificial pacemaker.
+برای بیمار ضربان‌ساز مصنوعی کار گذاشته شد.
+noun
+
+
+Electrocardiogram
+نوار قلب؛ الکتروکاردیوگرام
+The doctor ordered an electrocardiogram.
+پزشک درخواست نوار قلب کرد.
+noun
+
+
+ECG
+نوار قلب؛ مخفف الکتروکاردیوگرام
+The ECG showed an abnormal rhythm.
+نوار قلب یک ریتم غیرطبیعی را نشان داد.
+noun
+
+
+Echocardiogram
+اکوکاردیوگرام؛ تصویربرداری سونوگرافی از قلب
+The echocardiogram showed normal heart function.
+اکوکاردیوگرام عملکرد طبیعی قلب را نشان داد.
+noun
+
+
+Echocardiography
+اکوکاردیوگرافی؛ تصویربرداری اولتراسوند از قلب
+Echocardiography can evaluate heart valves.
+اکوکاردیوگرافی می‌تواند دریچه‌های قلب را ارزیابی کند.
+noun
+
+
+Angiography
+آنژیوگرافی؛ تصویربرداری از عروق
+Coronary angiography can identify blocked arteries.
+آنژیوگرافی کرونری می‌تواند شریان‌های مسدودشده را شناسایی کند.
+noun
+
+
+Angiogram
+آنژیوگرام؛ تصویر حاصل از آنژیوگرافی
+The angiogram revealed a severe narrowing.
+آنژیوگرام یک تنگی شدید را نشان داد.
+noun
+
+
+Catheter
+کاتتر؛ لوله باریک پزشکی
+The doctor inserted a catheter into the artery.
+پزشک یک کاتتر را وارد شریان کرد.
+noun
+
+
+Catheterization
+کاتتریزاسیون؛ وارد کردن کاتتر برای بررسی یا درمان
+Cardiac catheterization can measure pressures inside the heart.
+کاتتریزاسیون قلبی می‌تواند فشارهای داخل قلب را اندازه‌گیری کند.
+noun
+
+
+Stent
+استنت؛ فنر یا لوله کوچک برای باز نگه داشتن رگ
+A stent was placed to keep the artery open.
+یک استنت برای باز نگه داشتن شریان قرار داده شد.
+noun
+
+
+Angioplasty
+آنژیوپلاستی؛ باز کردن شریان تنگ یا مسدودشده
+The patient underwent coronary angioplasty.
+بیمار تحت آنژیوپلاستی کرونری قرار گرفت.
+noun
+
+
+Atherosclerosis
+تصلب شرایین؛ تجمع پلاک در دیواره سرخرگ‌ها
+Atherosclerosis can narrow the arteries.
+تصلب شرایین می‌تواند سرخرگ‌ها را تنگ کند.
+noun
+
+
+Plaque
+پلاک؛ رسوب چربی و مواد دیگر در دیواره شریان
+Plaque can build up inside the arteries.
+پلاک می‌تواند در داخل شریان‌ها تجمع پیدا کند.
+noun
+
+
+Cholesterol
+کلسترول
+High cholesterol increases the risk of cardiovascular disease.
+کلسترول بالا خطر بیماری قلبی‌عروقی را افزایش می‌دهد.
+noun
+
+
+Lipoprotein
+لیپوپروتئین؛ ترکیب چربی و پروتئین در خون
+Lipoproteins transport cholesterol through the blood.
+لیپوپروتئین‌ها کلسترول را از طریق خون منتقل می‌کنند.
+noun
+
+
+LDL
+لیپوپروتئین کم‌چگال؛ کلسترول بد
+High LDL levels may increase cardiovascular risk.
+سطح بالای LDL ممکن است خطر قلبی‌عروقی را افزایش دهد.
+noun
+
+
+HDL
+لیپوپروتئین پرچگال؛ کلسترول خوب
+HDL helps transport cholesterol away from the arteries.
+HDL به انتقال کلسترول از شریان‌ها کمک می‌کند.
+noun
+
+
+Triglyceride
+تری‌گلیسرید؛ نوعی چربی موجود در خون
+High triglyceride levels may increase cardiovascular risk.
+سطح بالای تری‌گلیسرید ممکن است خطر قلبی‌عروقی را افزایش دهد.
+noun
+
+
+Hypertension
+پرفشاری خون؛ فشار خون بالا
+Hypertension is a major risk factor for heart disease.
+پرفشاری خون یکی از عوامل خطر اصلی بیماری قلبی است.
+noun
+
+
+Hypotension
+افت فشار خون؛ فشار خون پایین
+Severe hypotension can cause fainting.
+افت شدید فشار خون می‌تواند باعث غش شود.
+noun
+
+
+Ischemia
+ایسکمی؛ کاهش جریان خون و اکسیژن‌رسانی به بافت
+Cardiac ischemia can cause chest discomfort.
+ایسکمی قلبی می‌تواند باعث ناراحتی قفسه سینه شود.
+noun
+
+
+Infarction
+انفارکتوس؛ مرگ بافت بر اثر قطع خون‌رسانی
+An infarction can result from prolonged lack of blood flow.
+انفارکتوس می‌تواند در اثر کمبود طولانی‌مدت جریان خون ایجاد شود.
+noun
+
+
+Myocardial infarction
+انفارکتوس میوکارد؛ سکته قلبی
+The patient was treated for myocardial infarction.
+بیمار به دلیل سکته قلبی تحت درمان قرار گرفت.
+noun
+
+
+Heart attack
+حمله قلبی؛ سکته قلبی
+A heart attack can damage the heart muscle.
+حمله قلبی می‌تواند به عضله قلب آسیب برساند.
+noun
+
+
+Coronary artery disease
+بیماری عروق کرونر
+Coronary artery disease can reduce blood flow to the heart.
+بیماری عروق کرونر می‌تواند جریان خون به قلب را کاهش دهد.
+noun
+
+
+Coronary artery
+شریان کرونری؛ سرخرگ تغذیه‌کننده عضله قلب
+The coronary artery supplies oxygen to the myocardium.
+شریان کرونری اکسیژن را به میوکارد می‌رساند.
+noun
+
+
+Angina
+آنژین؛ درد یا فشار قفسه سینه ناشی از کاهش خون‌رسانی قلب
+Angina often occurs during physical exertion.
+آنژین اغلب هنگام فعالیت بدنی رخ می‌دهد.
+noun
+
+
+Angina pectoris
+آنژین صدری؛ درد قفسه سینه ناشی از ایسکمی قلب
+Angina pectoris may feel like pressure in the chest.
+آنژین صدری ممکن است مانند فشار در قفسه سینه احساس شود.
+noun
+
+
+Heart failure
+نارسایی قلبی؛ ناتوانی قلب در پمپاژ کافی خون
+Heart failure can cause shortness of breath.
+نارسایی قلبی می‌تواند باعث تنگی نفس شود.
+noun
+
+
+Congestive heart failure
+نارسایی احتقانی قلب
+Congestive heart failure may cause fluid accumulation.
+نارسایی احتقانی قلب ممکن است باعث تجمع مایع شود.
+noun
+
+
+Cardiomyopathy
+کاردیومیوپاتی؛ بیماری عضله قلب
+Cardiomyopathy can weaken the heart muscle.
+کاردیومیوپاتی می‌تواند عضله قلب را ضعیف کند.
+noun
+
+
+Dilated cardiomyopathy
+کاردیومیوپاتی اتساعی
+Dilated cardiomyopathy causes enlargement of the heart chambers.
+کاردیومیوپاتی اتساعی باعث بزرگ‌شدن حفره‌های قلب می‌شود.
+noun
+
+
+Hypertrophic cardiomyopathy
+کاردیومیوپاتی هیپرتروفیک؛ ضخیم‌شدن غیرطبیعی عضله قلب
+Hypertrophic cardiomyopathy can affect cardiac function.
+کاردیومیوپاتی هیپرتروفیک می‌تواند بر عملکرد قلب تأثیر بگذارد.
+noun
+
+
+Valvular
+دریچه‌ای؛ مربوط به دریچه‌های قلب
+The patient has valvular heart disease.
+بیمار به بیماری دریچه‌ای قلب مبتلا است.
+adjective
+
+
+Stenosis
+تنگی؛ باریک‌شدن غیرطبیعی یک مجرا یا دریچه
+Valve stenosis can restrict blood flow.
+تنگی دریچه می‌تواند جریان خون را محدود کند.
+noun
+
+
+Aortic stenosis
+تنگی دریچه آئورت
+Aortic stenosis makes it harder for blood to leave the heart.
+تنگی دریچه آئورت خروج خون از قلب را دشوارتر می‌کند.
+noun
+
+
+Regurgitation
+پس‌زدگی؛ برگشت غیرطبیعی خون از دریچه
+Valve regurgitation allows blood to flow backward.
+پس‌زدگی دریچه باعث برگشت خون می‌شود.
+noun
+
+
+Mitral regurgitation
+نارسایی یا پس‌زدگی دریچه میترال
+Mitral regurgitation can cause enlargement of the left atrium.
+پس‌زدگی دریچه میترال می‌تواند باعث بزرگ‌شدن دهلیز چپ شود.
+noun
+
+
+Prolapse
+افتادگی؛ جابه‌جایی یا بیرون‌زدگی یک ساختار
+Mitral valve prolapse is often detected by echocardiography.
+افتادگی دریچه میترال اغلب با اکوکاردیوگرافی تشخیص داده می‌شود.
+noun
+
+
+Congenital
+مادرزادی
+Some congenital heart defects are detected in childhood.
+برخی نقص‌های مادرزادی قلب در دوران کودکی تشخیص داده می‌شوند.
+adjective
+
+
+Heart defect
+نقص قلبی
+The child was born with a heart defect.
+کودک با یک نقص قلبی متولد شد.
+noun
+
+
+Congenital heart disease
+بیماری مادرزادی قلب
+Congenital heart disease can vary in severity.
+بیماری مادرزادی قلب می‌تواند از نظر شدت متفاوت باشد.
+noun
+
+
+Cyanosis
+سیانوز؛ کبودی پوست یا لب‌ها به علت کمبود اکسیژن
+Cyanosis may indicate inadequate oxygenation.
+سیانوز ممکن است نشان‌دهنده اکسیژن‌رسانی ناکافی باشد.
+noun
+
+
+Edema
+ادم؛ تورم ناشی از تجمع مایع
+Heart failure can cause edema in the legs.
+نارسایی قلبی می‌تواند باعث ادم در پاها شود.
+noun
+
+
+Dyspnea
+تنگی نفس؛ دشواری در تنفس
+The patient experienced dyspnea while walking.
+بیمار هنگام راه رفتن دچار تنگی نفس شد.
+noun
+
+
+Orthopnea
+ارتوپنه؛ تنگی نفس هنگام دراز کشیدن
+Orthopnea may occur in patients with heart failure.
+ارتوپنه ممکن است در بیماران مبتلا به نارسایی قلبی رخ دهد.
+noun
+
+
+Syncope
+سنکوپ؛ غش یا از دست دادن موقت هوشیاری
+Syncope can occur when blood flow to the brain decreases.
+سنکوپ می‌تواند زمانی رخ دهد که جریان خون به مغز کاهش یابد.
+noun
+
+
+Dizziness
+سرگیجه
+The patient complained of dizziness.
+بیمار از سرگیجه شکایت داشت.
+noun
+
+
+Chest pain
+درد قفسه سینه
+Chest pain should be evaluated promptly.
+درد قفسه سینه باید به‌سرعت ارزیابی شود.
+noun
+
+
+Palpate
+لمس کردن؛ معاینه با دست
+The doctor palpated the patient's pulse.
+پزشک نبض بیمار را لمس و بررسی کرد.
+verb
+
+
+Auscultation
+سمع؛ گوش دادن به صداهای بدن با گوشی پزشکی
+Cardiac auscultation can reveal abnormal heart sounds.
+سمع قلبی می‌تواند صداهای غیرطبیعی قلب را آشکار کند.
+noun
+
+
+Stethoscope
+گوشی پزشکی
+The physician used a stethoscope to listen to the heart.
+پزشک از گوشی پزشکی برای گوش دادن به قلب استفاده کرد.
+noun
+
+
+Murmur
+سوفل قلبی؛ صدای غیرطبیعی جریان خون در قلب
+The doctor detected a heart murmur.
+پزشک یک سوفل قلبی را تشخیص داد.
+noun
+
+
+Heart sound
+صدای قلب
+The nurse listened carefully to the heart sounds.
+پرستار با دقت به صداهای قلب گوش داد.
+noun
+
+
+Systolic murmur
+سوفل سیستولیک
+The patient had a systolic murmur.
+بیمار دارای سوفل سیستولیک بود.
+noun
+
+
+Diastolic murmur
+سوفل دیاستولیک
+A diastolic murmur may indicate valve disease.
+سوفل دیاستولیک ممکن است نشان‌دهنده بیماری دریچه‌ای باشد.
+noun
+
+
+Risk factor
+عامل خطر
+Smoking is an important cardiovascular risk factor.
+سیگار کشیدن یک عامل خطر مهم قلبی‌عروقی است.
+noun
+
+
+Smoking
+سیگار کشیدن
+Smoking increases the risk of cardiovascular disease.
+سیگار کشیدن خطر بیماری قلبی‌عروقی را افزایش می‌دهد.
+noun
+
+
+Obesity
+چاقی
+Obesity is associated with an increased risk of heart disease.
+چاقی با افزایش خطر بیماری قلبی مرتبط است.
+noun
+
+
+Diabetes
+دیابت
+Diabetes can increase the risk of cardiovascular disease.
+دیابت می‌تواند خطر بیماری قلبی‌عروقی را افزایش دهد.
+noun
+
+
+Sedentary
+کم‌تحرک
+A sedentary lifestyle can increase cardiovascular risk.
+سبک زندگی کم‌تحرک می‌تواند خطر قلبی‌عروقی را افزایش دهد.
+adjective
+
+
+Prevention
+پیشگیری
+Prevention is important in reducing cardiovascular disease.
+پیشگیری در کاهش بیماری‌های قلبی‌عروقی مهم است.
+noun
+
+
+Diagnosis
+تشخیص
+Early diagnosis can improve treatment outcomes.
+تشخیص زودهنگام می‌تواند نتایج درمان را بهبود دهد.
+noun
+
+
+Treatment
+درمان
+The patient received appropriate treatment.
+بیمار درمان مناسب دریافت کرد.
+noun
+
+
+Therapy
+درمان؛ روش درمانی
+The patient started a new therapy.
+بیمار یک روش درمانی جدید را آغاز کرد.
+noun
+
+
+Medication
+دارو؛ درمان دارویی
+The doctor prescribed medication to control blood pressure.
+پزشک برای کنترل فشار خون دارو تجویز کرد.
+noun
+
+
+Antihypertensive
+داروی ضدفشار خون؛ کاهنده فشار خون
+The patient takes an antihypertensive medication.
+بیمار یک داروی ضدفشار خون مصرف می‌کند.
+noun
+
+
+Beta-blocker
+بتابلوکر؛ دارویی که اثر آدرنالین بر قلب را کاهش می‌دهد
+A beta-blocker can reduce heart rate.
+بتابلوکر می‌تواند ضربان قلب را کاهش دهد.
+noun
+
+
+ACE inhibitor
+مهارکننده ACE؛ داروی مهارکننده آنزیم مبدل آنژیوتانسین
+An ACE inhibitor may help control blood pressure.
+مهارکننده ACE ممکن است به کنترل فشار خون کمک کند.
+noun
+
+
+Diuretic
+دیورتیک؛ داروی ادرارآور
+A diuretic can reduce fluid retention.
+داروی ادرارآور می‌تواند احتباس مایعات را کاهش دهد.
+noun
+
+
+Anticoagulant
+ضدانعقاد؛ داروی رقیق‌کننده خون
+An anticoagulant can reduce the risk of blood clots.
+داروی ضدانعقاد می‌تواند خطر لخته‌های خون را کاهش دهد.
+noun
+
+
+Antiplatelet
+ضدپلاکت؛ دارویی که تجمع پلاکت‌ها را کاهش می‌دهد
+An antiplatelet drug can help prevent clot formation.
+داروی ضدپلاکت می‌تواند به پیشگیری از تشکیل لخته کمک کند.
+noun
+
+
+Aspirin
+آسپرین؛ داروی ضدپلاکت و ضدالتهاب
+Aspirin may be used to reduce platelet aggregation.
+آسپرین ممکن است برای کاهش تجمع پلاکت‌ها استفاده شود.
+noun
+
+
+Warfarin
+وارفارین؛ داروی ضدانعقاد
+Warfarin requires careful monitoring.
+وارفارین به پایش دقیق نیاز دارد.
+noun
+
+
+Heparin
+هپارین؛ داروی ضدانعقاد
+Heparin is often used in hospital settings.
+هپارین اغلب در محیط بیمارستان استفاده می‌شود.
+noun
+
+
+Thrombus
+ترومبوس؛ لخته خون تشکیل‌شده در رگ
+A thrombus can obstruct blood flow.
+ترومبوس می‌تواند جریان خون را مسدود کند.
+noun
+
+
+Thrombosis
+ترومبوز؛ تشکیل لخته خون در رگ
+Thrombosis can occur in an artery or vein.
+ترومبوز می‌تواند در یک شریان یا سیاهرگ رخ دهد.
+noun
+
+
+Embolus
+آمبولوس؛ ماده یا لخته‌ای که در جریان خون حرکت می‌کند
+An embolus can travel through the bloodstream.
+آمبولوس می‌تواند در جریان خون حرکت کند.
+noun
+
+
+Embolism
+آمبولی؛ انسداد رگ توسط ماده‌ای که در خون حرکت کرده است
+A pulmonary embolism can be life-threatening.
+آمبولی ریه می‌تواند تهدیدکننده زندگی باشد.
+noun
+
+
+Pulmonary embolism
+آمبولی ریه
+A pulmonary embolism can cause sudden shortness of breath.
+آمبولی ریه می‌تواند باعث تنگی نفس ناگهانی شود.
+noun
+
+
+Deep vein thrombosis
+ترومبوز ورید عمقی؛ تشکیل لخته در سیاهرگ عمقی
+Deep vein thrombosis commonly affects the legs.
+ترومبوز ورید عمقی معمولاً پاها را درگیر می‌کند.
+noun
+
+
+Hemorrhage
+خونریزی شدید
+The medication may increase the risk of hemorrhage.
+این دارو ممکن است خطر خونریزی را افزایش دهد.
+noun
+
+
+Perfusion
+خون‌رسانی؛ جریان خون به یک بافت
+Adequate perfusion is necessary for tissue survival.
+خون‌رسانی کافی برای بقای بافت ضروری است.
+noun
+
+
+Oxygenation
+اکسیژن‌رسانی؛ تأمین اکسیژن بافت‌ها
+Good oxygenation is essential for cardiac function.
+اکسیژن‌رسانی مناسب برای عملکرد قلب ضروری است.
+noun
+
+
+Oxygen saturation
+اشباع اکسیژن خون
+The patient's oxygen saturation was normal.
+اشباع اکسیژن خون بیمار طبیعی بود.
+noun
+
+
+Hypoxia
+هیپوکسی؛ کمبود اکسیژن در بافت‌ها
+Severe hypoxia can damage vital organs.
+هیپوکسی شدید می‌تواند به اندام‌های حیاتی آسیب برساند.
+noun
+
+
+Hemodynamics
+همودینامیک؛ مطالعه جریان خون و نیروهای مؤثر بر آن
+The study evaluated the patient's hemodynamics.
+این مطالعه همودینامیک بیمار را ارزیابی کرد.
+noun
+
+
+Vascular
+عروقی؛ مربوط به رگ‌های خونی
+The patient has a vascular disorder.
+بیمار دچار یک اختلال عروقی است.
+adjective
+
+
+Vascular resistance
+مقاومت عروقی
+Vascular resistance affects blood pressure.
+مقاومت عروقی بر فشار خون تأثیر می‌گذارد.
+noun
+
+
+Peripheral
+محیطی؛ مربوط به بخش‌های دورتر بدن
+Peripheral arteries supply blood to the limbs.
+شریان‌های محیطی خون را به اندام‌ها می‌رسانند.
+adjective
+
+
+Peripheral artery disease
+بیماری شریان‌های محیطی
+Peripheral artery disease can cause leg pain during walking.
+بیماری شریان‌های محیطی می‌تواند هنگام راه رفتن باعث درد پا شود.
+noun
+
+
+Carotid artery
+شریان کاروتید؛ سرخرگ گردنی
+The carotid artery supplies blood to the brain.
+شریان کاروتید خون را به مغز می‌رساند.
+noun
+
+
+Femoral artery
+شریان فمورال؛ سرخرگ رانی
+The femoral artery supplies blood to the leg.
+شریان فمورال خون را به پا می‌رساند.
+noun
+
+
+Jugular vein
+ورید ژوگولار؛ سیاهرگ گردنی
+The jugular vein drains blood from the head.
+ورید ژوگولار خون را از سر تخلیه می‌کند.
+noun
+
+
+Vasoconstriction
+تنگی عروقی؛ باریک‌شدن رگ‌های خونی
+Vasoconstriction can increase blood pressure.
+تنگی عروقی می‌تواند فشار خون را افزایش دهد.
+noun
+
+
+Vasodilation
+گشادشدن عروق
+Vasodilation can improve blood flow.
+گشادشدن عروق می‌تواند جریان خون را بهبود دهد.
+noun
+
+
+Vasodilator
+گشادکننده عروق
+The drug acts as a vasodilator.
+این دارو به‌عنوان گشادکننده عروق عمل می‌کند.
+noun
+
+
+Aneurysm
+آنوریسم؛ گشادشدگی غیرطبیعی دیواره رگ
+An aneurysm can develop in the aorta.
+آنوریسم می‌تواند در آئورت ایجاد شود.
+noun
+
+
+Aortic aneurysm
+آنوریسم آئورت
+An aortic aneurysm may require close monitoring.
+آنوریسم آئورت ممکن است به پایش دقیق نیاز داشته باشد.
+noun
+
+
+Dissection
+دیسکسیون؛ پارگی لایه داخلی دیواره رگ
+Aortic dissection requires immediate medical attention.
+دیسکسیون آئورت نیازمند مراقبت فوری پزشکی است.
+noun
+
+
+Aortic dissection
+دیسکسیون آئورت؛ پارگی لایه داخلی آئورت
+Aortic dissection can cause severe chest pain.
+دیسکسیون آئورت می‌تواند باعث درد شدید قفسه سینه شود.
+noun
+
+
+Cardiac arrest
+ایست قلبی
+Cardiac arrest requires immediate resuscitation.
+ایست قلبی نیازمند احیای فوری است.
+noun
+
+
+Resuscitation
+احیا؛ بازگرداندن عملکرد حیاتی
+The team began cardiopulmonary resuscitation immediately.
+تیم بلافاصله احیای قلبی‌ریوی را آغاز کرد.
+noun
+
+
+Cardiopulmonary resuscitation
+احیای قلبی‌ریوی؛ CPR
+Cardiopulmonary resuscitation can help maintain circulation.
+احیای قلبی‌ریوی می‌تواند به حفظ گردش خون کمک کند.
+noun
+
+
+Defibrillation
+دفیبریلاسیون؛ وارد کردن شوک الکتریکی برای اصلاح ریتم قلب
+Defibrillation may restore a normal rhythm.
+دفیبریلاسیون ممکن است ریتم طبیعی را بازگرداند.
+noun
+
+
+Defibrillator
+دستگاه دفیبریلاتور؛ دستگاه شوک‌دهنده قلب
+The defibrillator delivered an electrical shock.
+دستگاه دفیبریلاتور یک شوک الکتریکی وارد کرد.
+noun
+
+
+Implantable cardioverter-defibrillator
+دستگاه کاشتنی دفیبریلاتور قلبی
+An implantable cardioverter-defibrillator can detect dangerous rhythms.
+دفیبریلاتور قلبی کاشتنی می‌تواند ریتم‌های خطرناک را تشخیص دهد.
+noun
+
+
+Pacemaker
+ضربان‌ساز قلب
+A pacemaker helps regulate the heart rhythm.
+ضربان‌ساز به تنظیم ریتم قلب کمک می‌کند.
+noun
+
+
+Bypass
+بای‌پس؛ ایجاد مسیر جایگزین برای جریان خون
+The surgeon performed a coronary bypass.
+جراح عمل بای‌پس کرونری انجام داد.
+noun
+
+
+Coronary artery bypass graft
+جراحی بای‌پس عروق کرونر؛ CABG
+The patient underwent coronary artery bypass graft surgery.
+بیمار تحت جراحی بای‌پس عروق کرونر قرار گرفت.
+noun
+
+
+Graft
+پیوند؛ رگ یا بافت مورد استفاده برای ایجاد مسیر جدید
+The surgeon used a graft to bypass the blocked artery.
+جراح از یک پیوند برای دور زدن شریان مسدودشده استفاده کرد.
+noun
+
+
+Transplant
+پیوند؛ انتقال عضو یا بافت
+A heart transplant may be considered in severe heart failure.
+در نارسایی شدید قلبی ممکن است پیوند قلب در نظر گرفته شود.
+noun
+
+
+Heart transplant
+پیوند قلب
+The patient received a heart transplant.
+بیمار پیوند قلب دریافت کرد.
+noun
+
+
+Donor
+اهداکننده
+The donor heart was carefully evaluated.
+قلب اهداکننده با دقت ارزیابی شد.
+noun
+
+
+Recipient
+دریافت‌کننده؛ گیرنده عضو
+The recipient recovered well after surgery.
+گیرنده پس از جراحی به‌خوبی بهبود یافت.
+noun
+
+
+Rejection
+رد پیوند؛ واکنش بدن علیه عضو پیوندی
+The patient was monitored for signs of rejection.
+بیمار از نظر علائم رد پیوند تحت نظر بود.
+noun
+
+
+Cardiac rehabilitation
+توان‌بخشی قلبی
+Cardiac rehabilitation can improve recovery after a heart attack.
+توان‌بخشی قلبی می‌تواند بهبودی پس از حمله قلبی را بهبود دهد.
+noun
+
+
+Exercise
+ورزش؛ فعالیت بدنی
+Regular exercise benefits cardiovascular health.
+ورزش منظم برای سلامت قلبی‌عروقی مفید است.
+noun
+
+
+Aerobic
+هوازی؛ مربوط به فعالیت‌های نیازمند اکسیژن
+Aerobic exercise can improve cardiovascular fitness.
+ورزش هوازی می‌تواند آمادگی قلبی‌عروقی را بهبود دهد.
+adjective
+
+
+Endurance
+استقامت؛ توانایی ادامه فعالیت برای مدت طولانی
+Exercise improves cardiovascular endurance.
+ورزش استقامت قلبی‌عروقی را بهبود می‌دهد.
+noun
+
+
+Fitness
+آمادگی جسمانی
+Cardiovascular fitness is important for overall health.
+آمادگی قلبی‌عروقی برای سلامت عمومی مهم است.
+noun
+
+
+Inflammation
+التهاب
+Inflammation can affect cardiovascular health.
+التهاب می‌تواند بر سلامت قلبی‌عروقی تأثیر بگذارد.
+noun
+
+
+Biomarker
+نشانگر زیستی؛ شاخص قابل اندازه‌گیری برای وضعیت یا بیماری
+Troponin is an important cardiac biomarker.
+تروپونین یک نشانگر زیستی مهم قلبی است.
+noun
+
+
+Troponin
+تروپونین؛ پروتئین مورد استفاده در تشخیص آسیب عضله قلب
+Elevated troponin may indicate myocardial injury.
+افزایش تروپونین ممکن است نشان‌دهنده آسیب عضله قلب باشد.
+noun
+
+
+Creatine kinase
+کراتین کیناز؛ آنزیم مرتبط با آسیب عضلانی
+Creatine kinase can be measured after suspected myocardial injury.
+کراتین کیناز را می‌توان پس از شک به آسیب میوکارد اندازه‌گیری کرد.
+noun
+
+
+BNP
+پپتید ناتریورتیک نوع B؛ نشانگر مرتبط با نارسایی قلبی
+BNP levels may increase in heart failure.
+سطح BNP ممکن است در نارسایی قلبی افزایش یابد.
+noun
+
+
+Biomarker
+نشانگر زیستی
+Cardiac biomarkers can help evaluate myocardial injury.
+نشانگرهای زیستی قلبی می‌توانند به ارزیابی آسیب میوکارد کمک کنند.
+noun
+
+
+Prognosis
+پیش‌آگهی؛ پیش‌بینی روند و نتیجه بیماری
+The patient's prognosis depends on several factors.
+پیش‌آگهی بیمار به عوامل مختلفی بستگی دارد.
+noun
+
+
+Acute
+حاد؛ ناگهانی و شدید
+The patient developed acute chest pain.
+بیمار دچار درد حاد قفسه سینه شد.
+adjective
+
+
+Chronic
+مزمن؛ طولانی‌مدت
+Chronic hypertension can damage the heart.
+پرفشاری خون مزمن می‌تواند به قلب آسیب برساند.
+adjective
+
+
+Stable
+پایدار
+The patient's condition remained stable.
+وضعیت بیمار پایدار باقی ماند.
+adjective
+
+
+Unstable
+ناپایدار
+The patient became hemodynamically unstable.
+وضعیت همودینامیک بیمار ناپایدار شد.
+adjective
+
+
+Risk
+خطر؛ احتمال وقوع یک پیامد نامطلوب
+High blood pressure increases the risk of stroke.
+فشار خون بالا خطر سکته مغزی را افزایش می‌دهد.
+noun
+
+
+Complication
+عارضه؛ پیامد ناخواسته بیماری یا درمان
+Bleeding is a possible complication of the procedure.
+خونریزی یک عارضه احتمالی این روش است.
+noun
+
+
+Prognostic
+پیش‌آگهی‌دهنده؛ مربوط به پیش‌بینی نتیجه بیماری
+The test provides important prognostic information.
+این آزمایش اطلاعات مهمی درباره پیش‌آگهی ارائه می‌دهد.
+adjective
+
+
+Morbidity
+میزان بیماری یا عوارض ناشی از بیماری
+The treatment may reduce cardiovascular morbidity.
+این درمان ممکن است میزان عوارض قلبی‌عروقی را کاهش دهد.
+noun
+
+
+Mortality
+مرگ‌ومیر؛ میزان مرگ‌ومیر
+Early treatment can reduce cardiovascular mortality.
+درمان زودهنگام می‌تواند مرگ‌ومیر قلبی‌عروقی را کاهش دهد.
+noun
+
+
+Screening
+غربالگری؛ بررسی برای شناسایی زودهنگام بیماری
+Screening can identify cardiovascular risk factors.
+غربالگری می‌تواند عوامل خطر قلبی‌عروقی را شناسایی کند.
+noun
+
+
+Monitor
+پایش کردن؛ تحت نظر گرفتن
+Doctors monitor the patient's heart rate.
+پزشکان ضربان قلب بیمار را پایش می‌کنند.
+verb
+
+
+Monitoring
+پایش؛ نظارت پزشکی
+Continuous monitoring may be necessary in critical patients.
+پایش مداوم ممکن است در بیماران بدحال ضروری باشد.
+noun
+
+
+Electrode
+الکترود؛ قطعه‌ای که فعالیت الکتریکی را دریافت یا منتقل می‌کند
+The electrodes were placed on the patient's chest.
+الکترودها روی قفسه سینه بیمار قرار داده شدند.
+noun
+
+
+Lead
+لید؛ مسیر یا الکترود ثبت فعالیت الکتریکی قلب
+The ECG showed changes in several leads.
+نوار قلب تغییراتی را در چند لید نشان داد.
+noun
+
+
+Telemetry
+تله‌متری؛ پایش و انتقال از راه دور علائم و فعالیت قلب
+The patient was placed on cardiac telemetry.
+بیمار تحت تله‌متری قلبی قرار گرفت.
+noun
+
+
+Holter monitor
+هولتر مانیتور؛ دستگاه قابل‌حمل ثبت طولانی‌مدت نوار قلب
+The doctor recommended a Holter monitor for 24 hours.
+پزشک استفاده از هولتر مانیتور را به مدت ۲۴ ساعت توصیه کرد.
+noun
+
+
+Stress test
+آزمون استرس قلبی؛ آزمایش عملکرد قلب هنگام فعالیت
+The patient underwent a cardiac stress test.
+بیمار تحت آزمون استرس قلبی قرار گرفت.
+noun
+
+
+Exercise stress test
+تست ورزش قلبی
+An exercise stress test can evaluate the heart during physical activity.
+تست ورزش می‌تواند عملکرد قلب را هنگام فعالیت بدنی ارزیابی کند.
+noun
+
+
+Nuclear imaging
+تصویربرداری هسته‌ای
+Nuclear imaging can assess blood flow to the heart.
+تصویربرداری هسته‌ای می‌تواند جریان خون به قلب را ارزیابی کند.
+noun
+
+
+Perfusion imaging
+تصویربرداری پرفیوژن؛ تصویربرداری از خون‌رسانی بافت
+Perfusion imaging can identify areas of reduced blood flow.
+تصویربرداری پرفیوژن می‌تواند نواحی با کاهش جریان خون را شناسایی کند.
+noun
+
+
+Cardiac MRI
+ام‌آر‌آی قلب
+Cardiac MRI provides detailed images of the heart.
+ام‌آر‌آی قلب تصاویر دقیقی از قلب ارائه می‌دهد.
+noun
+
+
+Computed tomography
+سی‌تی‌اسکن؛ توموگرافی کامپیوتری
+Computed tomography can provide detailed images of blood vessels.
+سی‌تی‌اسکن می‌تواند تصاویر دقیقی از رگ‌های خونی ارائه دهد.
+noun
+
+
+Coronary CT
+سی‌تی کرونری
+Coronary CT can visualize the coronary arteries.
+سی‌تی کرونری می‌تواند شریان‌های کرونری را مشاهده کند.
+noun
+
+
+Contrast medium
+ماده حاجب؛ ماده‌ای برای بهتر دیده شدن ساختارها در تصویربرداری
+A contrast medium was injected during the procedure.
+در طول این روش ماده حاجب تزریق شد.
+noun
+
+
+Injection
+تزریق
+The injection was given into a vein.
+تزریق داخل یک سیاهرگ انجام شد.
+noun
+
+
+Intravenous
+داخل‌وریدی؛ داخل سیاهرگ
+The medication was administered intravenously.
+دارو به‌صورت داخل‌وریدی تجویز شد.
+adjective
+
+
+Invasive
+تهاجمی؛ نیازمند ورود به بدن
+Cardiac catheterization is an invasive procedure.
+کاتتریزاسیون قلبی یک روش تهاجمی است.
+adjective
+
+
+Noninvasive
+غیرتهاجمی؛ بدون ورود مستقیم به بدن
+Echocardiography is a noninvasive test.
+اکوکاردیوگرافی یک آزمایش غیرتهاجمی است.
+adjective
+
+
+Procedure
+روش پزشکی؛ اقدام درمانی یا تشخیصی
+The procedure was completed without complications.
+این روش بدون عارضه انجام شد.
+noun
+
+
+Surgery
+جراحی
+The patient required heart surgery.
+بیمار به جراحی قلب نیاز داشت.
+noun
+
+
+Surgeon
+جراح
+The surgeon performed the operation successfully.
+جراح عمل را با موفقیت انجام داد.
+noun
+
+
+Cardiologist
+متخصص قلب و عروق
+The cardiologist examined the patient.
+متخصص قلب و عروق بیمار را معاینه کرد.
+noun
+
+
+Cardiovascular surgeon
+جراح قلب و عروق
+The cardiovascular surgeon discussed the treatment options.
+جراح قلب و عروق درباره گزینه‌های درمانی صحبت کرد.
+noun
+
+
+Patient
+بیمار
+The patient reported chest discomfort.
+بیمار از ناراحتی قفسه سینه خبر داد.
+noun
+
+
+Clinical
+بالینی؛ مربوط به مراقبت یا مشاهده بیمار
+The study included detailed clinical data.
+این مطالعه شامل داده‌های بالینی دقیق بود.
+adjective
+
+
+Diagnosis
+تشخیص
+Accurate diagnosis is essential for effective treatment.
+تشخیص دقیق برای درمان مؤثر ضروری است.
+noun
+
+
+Etiology
+سبب‌شناسی؛ مطالعه یا علت بیماری
+The etiology of the condition was unclear.
+علت بیماری مشخص نبود.
+noun
+
+
+Pathology
+آسیب‌شناسی؛ مطالعه بیماری و تغییرات ناشی از آن
+The pathology affected the heart muscle.
+این بیماری بر عضله قلب تأثیر گذاشت.
+noun
+
+
+Anatomy
+کالبدشناسی؛ ساختار بدن
+The doctor studied the anatomy of the heart.
+پزشک کالبدشناسی قلب را مطالعه کرد.
+noun
+
+
+Physiology
+فیزیولوژی؛ علم عملکرد طبیعی بدن
+Cardiac physiology explains how the heart functions.
+فیزیولوژی قلب نحوه عملکرد قلب را توضیح می‌دهد.
+noun
+
+
+Cardiac
+قلبی؛ مربوط به قلب
+The patient underwent a cardiac examination.
+بیمار تحت معاینه قلبی قرار گرفت.
+adjective
+
+
+Ventricular
+بطنی؛ مربوط به بطن‌های قلب
+Ventricular function was assessed by echocardiography.
+عملکرد بطنی با اکوکاردیوگرافی ارزیابی شد.
+adjective
+
+
+Atrial
+دهلیزی؛ مربوط به دهلیزهای قلب
+The ECG showed an atrial rhythm abnormality.
+نوار قلب یک اختلال ریتم دهلیزی را نشان داد.
+adjective
+
+
+Coronary
+کرونری؛ مربوط به عروق قلب
+Coronary blood flow is essential for the myocardium.
+جریان خون کرونری برای میوکارد ضروری است.
+adjective
+
+
+Arterial
+شریانی؛ مربوط به سرخرگ‌ها
+Arterial blood contains oxygen-rich blood.
+خون شریانی حاوی مقدار زیادی اکسیژن است.
+adjective
+
+
+Venous
+وریدی؛ مربوط به سیاهرگ‌ها
+Venous blood returns to the heart.
+خون وریدی به قلب بازمی‌گردد.
+adjective
+
+
+Oxygen-rich
+غنی از اکسیژن
+The left ventricle pumps oxygen-rich blood to the body.
+بطن چپ خون غنی از اکسیژن را به بدن پمپاژ می‌کند.
+adjective
+
+
+Oxygen-poor
+کم‌اکسیژن
+The right side of the heart receives oxygen-poor blood.
+سمت راست قلب خون کم‌اکسیژن را دریافت می‌کند.
+adjective
+
+
+Circulate
+به گردش درآمدن؛ گردش کردن
+Blood circulates through the cardiovascular system.
+خون در دستگاه قلبی‌عروقی گردش می‌کند.
+verb
+
+
+Pump
+پمپاژ کردن
+The heart pumps blood to all parts of the body.
+قلب خون را به تمام قسمت‌های بدن پمپاژ می‌کند.
+verb
+
+
+Contract
+منقبض شدن
+The ventricles contract during systole.
+بطن‌ها هنگام سیستول منقبض می‌شوند.
+verb
+
+
+Dilate
+گشاد شدن؛ گشاد کردن
+The blood vessels dilate during exercise.
+رگ‌های خونی هنگام ورزش گشاد می‌شوند.
+verb
+
+
+Narrow
+تنگ شدن؛ باریک شدن
+Atherosclerosis can narrow the arteries.
+تصلب شرایین می‌تواند شریان‌ها را تنگ کند.
+verb
+
+
+Obstruct
+مسدود کردن؛ مانع جریان شدن
+A blood clot can obstruct an artery.
+یک لخته خون می‌تواند یک شریان را مسدود کند.
+verb
+
+
+Regulate
+تنظیم کردن
+The autonomic nervous system regulates heart rate.
+دستگاه عصبی خودمختار ضربان قلب را تنظیم می‌کند.
+verb
+
+
+Stimulate
+تحریک کردن
+Exercise stimulates the cardiovascular system.
+ورزش دستگاه قلبی‌عروقی را تحریک می‌کند.
+verb
+
+
+Evaluate
+ارزیابی کردن
+The test evaluates cardiac function.
+این آزمایش عملکرد قلب را ارزیابی می‌کند.
+verb
+
+
+Detect
+تشخیص دادن؛ شناسایی کردن
+The ECG can detect abnormal rhythms.
+نوار قلب می‌تواند ریتم‌های غیرطبیعی را شناسایی کند.
+verb
+
+
+Assess
+ارزیابی کردن
+The physician assessed the patient's cardiovascular risk.
+پزشک خطر قلبی‌عروقی بیمار را ارزیابی کرد.
+verb
+
+
+Prevent
+پیشگیری کردن؛ جلوگیری کردن
+Healthy habits can help prevent heart disease.
+عادات سالم می‌توانند به پیشگیری از بیماری قلبی کمک کنند.
+verb
+
+
+Reduce
+کاهش دادن
+Exercise can reduce cardiovascular risk.
+ورزش می‌تواند خطر قلبی‌عروقی را کاهش دهد.
+verb
+
+
+Increase
+افزایش دادن
+Physical activity can increase cardiac output.
+فعالیت بدنی می‌تواند برون‌ده قلبی را افزایش دهد.
+verb
+
+
+Maintain
+حفظ کردن
+Regular exercise helps maintain cardiovascular health.
+ورزش منظم به حفظ سلامت قلبی‌عروقی کمک می‌کند.
+verb
+
+
+Recover
+بهبود یافتن؛ بهبود پیدا کردن
+The patient recovered after the procedure.
+بیمار پس از انجام روش درمانی بهبود یافت.
+verb
+
+
+Survive
+زنده ماندن
+Early treatment increases the chance of survival.
+درمان زودهنگام شانس زنده ماندن را افزایش می‌دهد.
+verb
