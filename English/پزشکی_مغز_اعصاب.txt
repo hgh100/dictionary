@@ -1,0 +1,1559 @@
+﻿Brain
+مغز
+The brain controls many functions of the body.
+مغز بسیاری از عملکردهای بدن را کنترل می‌کند.
+noun
+
+
+Neurology
+علم مغز و اعصاب؛ نورولوژی
+Neurology focuses on disorders of the nervous system.
+نورولوژی بر اختلالات دستگاه عصبی تمرکز دارد.
+noun
+
+
+Neurologist
+متخصص مغز و اعصاب
+The neurologist examined the patient carefully.
+متخصص مغز و اعصاب بیمار را با دقت معاینه کرد.
+noun
+
+
+Nervous system
+دستگاه عصبی
+The nervous system controls communication between the brain and body.
+دستگاه عصبی ارتباط بین مغز و بدن را کنترل می‌کند.
+noun
+
+
+Central nervous system
+دستگاه عصبی مرکزی
+The central nervous system includes the brain and spinal cord.
+دستگاه عصبی مرکزی شامل مغز و نخاع است.
+noun
+
+
+Peripheral nervous system
+دستگاه عصبی محیطی
+The peripheral nervous system connects the brain and spinal cord to the body.
+دستگاه عصبی محیطی مغز و نخاع را به بدن متصل می‌کند.
+noun
+
+
+Neuron
+نورون؛ سلول عصبی
+A neuron transmits electrical signals.
+نورون سیگنال‌های الکتریکی را منتقل می‌کند.
+noun
+
+
+Neural
+عصبی؛ مربوط به دستگاه عصبی
+Neural activity changes during sleep.
+فعالیت عصبی هنگام خواب تغییر می‌کند.
+adjective
+
+
+Nerve
+عصب
+The nerve carries signals between the brain and the body.
+عصب سیگنال‌ها را بین مغز و بدن منتقل می‌کند.
+noun
+
+
+Nerve cell
+سلول عصبی
+A nerve cell communicates with other cells.
+سلول عصبی با سلول‌های دیگر ارتباط برقرار می‌کند.
+noun
+
+
+Axon
+آکسون؛ رشته بلند سلول عصبی
+The axon carries signals away from the cell body.
+آکسون پیام‌ها را از جسم سلولی دور می‌کند.
+noun
+
+
+Dendrite
+دندریت؛ زائده گیرنده پیام‌های عصبی
+Dendrites receive signals from other neurons.
+دندریت‌ها پیام‌ها را از نورون‌های دیگر دریافت می‌کنند.
+noun
+
+
+Synapse
+سیناپس؛ محل ارتباط بین سلول‌های عصبی
+Signals pass from one neuron to another at the synapse.
+پیام‌ها در سیناپس از یک نورون به نورون دیگر منتقل می‌شوند.
+noun
+
+
+Neurotransmitter
+انتقال‌دهنده عصبی؛ ناقل عصبی
+Dopamine is an important neurotransmitter.
+دوپامین یک انتقال‌دهنده عصبی مهم است.
+noun
+
+
+Dopamine
+دوپامین
+Dopamine plays a role in movement and motivation.
+دوپامین در حرکت و انگیزه نقش دارد.
+noun
+
+
+Serotonin
+سروتونین
+Serotonin affects mood and sleep.
+سروتونین بر خلق‌وخو و خواب تأثیر می‌گذارد.
+noun
+
+
+Acetylcholine
+استیل‌کولین
+Acetylcholine is involved in muscle movement and memory.
+استیل‌کولین در حرکت عضلات و حافظه نقش دارد.
+noun
+
+
+GABA
+گابا؛ اسید گاما آمینوبوتیریک
+GABA generally reduces neuronal activity.
+گابا معمولاً فعالیت نورون‌ها را کاهش می‌دهد.
+noun
+
+
+Glutamate
+گلوتامات؛ یک انتقال‌دهنده عصبی تحریکی
+Glutamate is an important excitatory neurotransmitter.
+گلوتامات یک انتقال‌دهنده عصبی تحریکی مهم است.
+noun
+
+
+Norepinephrine
+نوراپی‌نفرین؛ نورآدرنالین
+Norepinephrine is involved in attention and alertness.
+نوراپی‌نفرین در توجه و هوشیاری نقش دارد.
+noun
+
+
+Cortex
+قشر مغز
+The cerebral cortex is involved in many complex functions.
+قشر مغز در بسیاری از عملکردهای پیچیده نقش دارد.
+noun
+
+
+Cerebral cortex
+قشر مخ
+The cerebral cortex processes sensory information.
+قشر مخ اطلاعات حسی را پردازش می‌کند.
+noun
+
+
+Cerebrum
+مخ؛ بخش بزرگ و اصلی مغز
+The cerebrum controls many voluntary activities.
+مخ بسیاری از فعالیت‌های ارادی را کنترل می‌کند.
+noun
+
+
+Cerebellum
+مخچه
+The cerebellum helps coordinate movement and balance.
+مخچه به هماهنگی حرکت و تعادل کمک می‌کند.
+noun
+
+
+Brainstem
+ساقه مغز
+The brainstem controls several vital functions.
+ساقه مغز چندین عملکرد حیاتی را کنترل می‌کند.
+noun
+
+
+Medulla
+بصل‌النخاع
+The medulla controls important automatic functions.
+بصل‌النخاع عملکردهای خودکار مهمی را کنترل می‌کند.
+noun
+
+
+Pons
+پل مغزی
+The pons is part of the brainstem.
+پل مغزی بخشی از ساقه مغز است.
+noun
+
+
+Midbrain
+مغز میانی
+The midbrain is involved in movement and visual responses.
+مغز میانی در حرکت و پاسخ‌های بینایی نقش دارد.
+noun
+
+
+Thalamus
+تالاموس
+The thalamus relays sensory information to the cerebral cortex.
+تالاموس اطلاعات حسی را به قشر مخ منتقل می‌کند.
+noun
+
+
+Hypothalamus
+هیپوتالاموس
+The hypothalamus helps regulate body temperature.
+هیپوتالاموس به تنظیم دمای بدن کمک می‌کند.
+noun
+
+
+Hippocampus
+هیپوکامپ؛ ساختار مهم در حافظه
+The hippocampus plays an important role in memory.
+هیپوکامپ نقش مهمی در حافظه دارد.
+noun
+
+
+Amygdala
+آمیگدال؛ بادامه مغزی
+The amygdala is involved in emotional processing.
+آمیگدال در پردازش هیجانات نقش دارد.
+noun
+
+
+Basal ganglia
+گانگلیون‌های قاعده‌ای
+The basal ganglia help control movement.
+گانگلیون‌های قاعده‌ای به کنترل حرکت کمک می‌کنند.
+noun
+
+
+Spinal cord
+نخاع
+The spinal cord carries signals between the brain and body.
+نخاع پیام‌ها را بین مغز و بدن منتقل می‌کند.
+noun
+
+
+Meninges
+مننژها؛ پرده‌های محافظ مغز و نخاع
+The meninges protect the brain and spinal cord.
+مننژها از مغز و نخاع محافظت می‌کنند.
+noun
+
+
+Dura mater
+سخت‌شامه
+The dura mater is the outermost meningeal layer.
+سخت‌شامه خارجی‌ترین لایه مننژ است.
+noun
+
+
+Arachnoid mater
+عنکبوتیه
+The arachnoid mater lies beneath the dura mater.
+عنکبوتیه در زیر سخت‌شامه قرار دارد.
+noun
+
+
+Pia mater
+نرم‌شامه
+The pia mater closely covers the surface of the brain.
+نرم‌شامه سطح مغز را به‌طور نزدیک می‌پوشاند.
+noun
+
+
+Cerebrospinal fluid
+مایع مغزی‌نخاعی؛ CSF
+Cerebrospinal fluid surrounds the brain and spinal cord.
+مایع مغزی‌نخاعی اطراف مغز و نخاع قرار دارد.
+noun
+
+
+Ventricle
+بطن مغزی
+The ventricles contain cerebrospinal fluid.
+بطن‌های مغزی حاوی مایع مغزی‌نخاعی هستند.
+noun
+
+
+Lateral ventricle
+بطن جانبی
+The lateral ventricles are located within the cerebral hemispheres.
+بطن‌های جانبی در نیمکره‌های مغزی قرار دارند.
+noun
+
+
+Gray matter
+ماده خاکستری
+Gray matter contains many neuronal cell bodies.
+ماده خاکستری شامل تعداد زیادی جسم سلولی نورون‌هاست.
+noun
+
+
+White matter
+ماده سفید
+White matter contains many nerve fibers.
+ماده سفید شامل رشته‌های عصبی زیادی است.
+noun
+
+
+Myelin
+میلین؛ غلاف چربی اطراف برخی رشته‌های عصبی
+Myelin helps nerve signals travel rapidly.
+میلین به انتقال سریع پیام‌های عصبی کمک می‌کند.
+noun
+
+
+Myelin sheath
+غلاف میلین
+The myelin sheath protects the axon.
+غلاف میلین از آکسون محافظت می‌کند.
+noun
+
+
+Demyelination
+دِمیلینه‌شدن؛ از بین رفتن غلاف میلین
+Demyelination can slow nerve signal transmission.
+دِمیلینه‌شدن می‌تواند انتقال پیام عصبی را کند کند.
+noun
+
+
+Neuroplasticity
+انعطاف‌پذیری عصبی؛ توانایی مغز برای تغییر و سازگاری
+Neuroplasticity allows the brain to adapt after injury.
+انعطاف‌پذیری عصبی به مغز اجازه می‌دهد پس از آسیب سازگار شود.
+noun
+
+
+Neurodegeneration
+تخریب عصبی؛ تحلیل رفتن سلول‌های عصبی
+Neurodegeneration can cause progressive neurological symptoms.
+تخریب عصبی می‌تواند باعث علائم عصبی پیشرونده شود.
+noun
+
+
+Neuroinflammation
+التهاب عصبی
+Neuroinflammation can affect brain function.
+التهاب عصبی می‌تواند بر عملکرد مغز تأثیر بگذارد.
+noun
+
+
+Neuropathy
+نوروپاتی؛ آسیب یا اختلال اعصاب
+Diabetes can cause peripheral neuropathy.
+دیابت می‌تواند باعث نوروپاتی محیطی شود.
+noun
+
+
+Neuralgia
+نورالژی؛ درد ناشی از تحریک یا آسیب عصب
+The patient developed facial neuralgia.
+بیمار دچار نورالژی صورت شد.
+noun
+
+
+Neuritis
+نوریت؛ التهاب عصب
+Optic neuritis can affect vision.
+نوریت بینایی می‌تواند بر بینایی تأثیر بگذارد.
+noun
+
+
+Neurosis
+نوروز؛ اختلال عصبی یا روانی بدون از دست رفتن ارتباط با واقعیت
+The term neurosis is now less commonly used in modern diagnosis.
+اصطلاح نوروز امروزه در تشخیص پزشکی کمتر استفاده می‌شود.
+noun
+
+
+Epilepsy
+صرع
+Epilepsy is characterized by recurrent seizures.
+صرع با تشنج‌های مکرر مشخص می‌شود.
+noun
+
+
+Seizure
+تشنج؛ حمله ناشی از فعالیت الکتریکی غیرطبیعی مغز
+The patient experienced a seizure.
+بیمار دچار یک حمله تشنجی شد.
+noun
+
+
+Convulsion
+تشنج؛ انقباضات غیرارادی و شدید عضلات
+The child developed a convulsion.
+کودک دچار تشنج شد.
+noun
+
+
+Aura
+اورا؛ علائم هشداردهنده پیش از برخی حملات عصبی
+The patient reported an aura before the seizure.
+بیمار پیش از تشنج وجود اورا را گزارش کرد.
+noun
+
+
+Status epilepticus
+استاتوس اپی‌لپتیکوس؛ تشنج طولانی یا پشت‌سرهم
+Status epilepticus requires urgent treatment.
+استاتوس اپی‌لپتیکوس به درمان فوری نیاز دارد.
+noun
+
+
+Stroke
+سکته مغزی
+A stroke can cause sudden weakness on one side of the body.
+سکته مغزی می‌تواند باعث ضعف ناگهانی در یک طرف بدن شود.
+noun
+
+
+Ischemic stroke
+سکته مغزی ایسکمیک
+An ischemic stroke occurs when blood flow to part of the brain is blocked.
+سکته مغزی ایسکمیک زمانی رخ می‌دهد که جریان خون به بخشی از مغز مسدود شود.
+noun
+
+
+Hemorrhagic stroke
+سکته مغزی هموراژیک؛ سکته ناشی از خونریزی مغزی
+A hemorrhagic stroke results from bleeding in the brain.
+سکته مغزی هموراژیک در اثر خونریزی در مغز ایجاد می‌شود.
+noun
+
+
+Transient ischemic attack
+حمله ایسکمیک گذرا؛ TIA
+A transient ischemic attack can cause temporary neurological symptoms.
+حمله ایسکمیک گذرا می‌تواند علائم عصبی موقتی ایجاد کند.
+noun
+
+
+Aneurysm
+آنوریسم؛ گشادشدگی غیرطبیعی دیواره رگ
+A brain aneurysm can rupture and cause bleeding.
+آنوریسم مغزی می‌تواند پاره شود و باعث خونریزی شود.
+noun
+
+
+Cerebral hemorrhage
+خونریزی مغزی
+Cerebral hemorrhage can increase pressure inside the skull.
+خونریزی مغزی می‌تواند فشار داخل جمجمه را افزایش دهد.
+noun
+
+
+Intracranial
+داخل‌جمجمه‌ای؛ مربوط به داخل جمجمه
+The scan showed increased intracranial pressure.
+اسکن افزایش فشار داخل جمجمه را نشان داد.
+adjective
+
+
+Intracranial pressure
+فشار داخل جمجمه
+Increased intracranial pressure can be dangerous.
+افزایش فشار داخل جمجمه می‌تواند خطرناک باشد.
+noun
+
+
+Headache
+سردرد
+The patient complained of a severe headache.
+بیمار از سردرد شدید شکایت داشت.
+noun
+
+
+Migraine
+میگرن
+Migraine can cause severe headache and nausea.
+میگرن می‌تواند باعث سردرد شدید و تهوع شود.
+noun
+
+
+Tension headache
+سردرد تنشی
+Stress can contribute to tension headaches.
+استرس می‌تواند در ایجاد سردردهای تنشی نقش داشته باشد.
+noun
+
+
+Cluster headache
+سردرد خوشه‌ای
+Cluster headaches can cause severe pain around one eye.
+سردردهای خوشه‌ای می‌توانند باعث درد شدید اطراف یک چشم شوند.
+noun
+
+
+Dizziness
+سرگیجه
+The patient reported dizziness when standing.
+بیمار هنگام ایستادن از سرگیجه شکایت داشت.
+noun
+
+
+Vertigo
+سرگیجه چرخشی؛ احساس چرخش خود یا محیط
+Vertigo can make walking difficult.
+سرگیجه چرخشی می‌تواند راه رفتن را دشوار کند.
+noun
+
+
+Nausea
+تهوع
+The patient experienced nausea during the migraine.
+بیمار هنگام میگرن دچار تهوع شد.
+noun
+
+
+Weakness
+ضعف
+The patient developed weakness in the right arm.
+بیمار دچار ضعف در بازوی راست شد.
+noun
+
+
+Paralysis
+فلج
+The stroke caused partial paralysis.
+سکته مغزی باعث فلج نسبی شد.
+noun
+
+
+Hemiplegia
+همی‌پلژی؛ فلج یک طرف بدن
+Hemiplegia can occur after a severe stroke.
+همی‌پلژی ممکن است پس از یک سکته مغزی شدید رخ دهد.
+noun
+
+
+Hemiparesis
+همی‌پارزی؛ ضعف یک طرف بدن
+The patient had mild hemiparesis after the stroke.
+بیمار پس از سکته مغزی دچار همی‌پارزی خفیف شد.
+noun
+
+
+Paraplegia
+پاراپلژی؛ فلج هر دو اندام تحتانی
+Spinal cord injury can cause paraplegia.
+آسیب نخاعی می‌تواند باعث پاراپلژی شود.
+noun
+
+
+Quadriplegia
+کوادری‌پلژی؛ فلج هر چهار اندام
+Severe cervical spinal cord injury can cause quadriplegia.
+آسیب شدید نخاع گردنی می‌تواند باعث کوادری‌پلژی شود.
+noun
+
+
+Paresthesia
+پارستزی؛ احساس غیرطبیعی مانند گزگز و مورمور
+The patient experienced paresthesia in the fingers.
+بیمار در انگشتان خود احساس گزگز داشت.
+noun
+
+
+Numbness
+بی‌حسی
+Numbness can occur after nerve compression.
+بی‌حسی می‌تواند پس از فشردگی عصب رخ دهد.
+noun
+
+
+Tingling
+گزگز؛ احساس سوزن‌سوزن شدن
+She reported tingling in her feet.
+او از گزگز در پاهایش خبر داد.
+noun
+
+
+Tremor
+لرزش
+The patient had a mild hand tremor.
+بیمار لرزش خفیفی در دست داشت.
+noun
+
+
+Rigidity
+سفتی عضلات؛ ریجیدیتی
+Rigidity is a common feature of Parkinson's disease.
+سفتی عضلات یکی از ویژگی‌های شایع بیماری پارکینسون است.
+noun
+
+
+Spasticity
+اسپاستیسیته؛ افزایش غیرطبیعی سفتی عضلات
+Spasticity can develop after a stroke.
+اسپاستیسیته می‌تواند پس از سکته مغزی ایجاد شود.
+noun
+
+
+Ataxia
+آتاکسی؛ عدم هماهنگی حرکات
+Ataxia can affect balance and walking.
+آتاکسی می‌تواند تعادل و راه رفتن را مختل کند.
+noun
+
+
+Gait
+راه رفتن؛ الگوی راه رفتن
+The neurologist examined the patient's gait.
+متخصص مغز و اعصاب نحوه راه رفتن بیمار را بررسی کرد.
+noun
+
+
+Balance
+تعادل
+The patient had difficulty maintaining balance.
+بیمار در حفظ تعادل مشکل داشت.
+noun
+
+
+Coordination
+هماهنگی حرکات
+The test evaluated hand coordination.
+این آزمایش هماهنگی دست را ارزیابی کرد.
+noun
+
+
+Reflex
+رفلکس؛ پاسخ خودکار بدن به محرک
+The doctor tested the patient's reflexes.
+پزشک رفلکس‌های بیمار را بررسی کرد.
+noun
+
+
+Deep tendon reflex
+رفلکس تاندونی عمقی
+The neurologist assessed the deep tendon reflexes.
+متخصص مغز و اعصاب رفلکس‌های تاندونی عمقی را ارزیابی کرد.
+noun
+
+
+Babinski sign
+علامت بابنسکی
+The Babinski sign may indicate a problem with the corticospinal tract.
+علامت بابنسکی ممکن است نشان‌دهنده مشکل در راه کورتیکواسپاینال باشد.
+noun
+
+
+Cranial nerve
+عصب جمجمه‌ای
+The doctor examined the cranial nerves.
+پزشک اعصاب جمجمه‌ای را بررسی کرد.
+noun
+
+
+Optic nerve
+عصب بینایی
+The optic nerve carries visual information to the brain.
+عصب بینایی اطلاعات بینایی را به مغز منتقل می‌کند.
+noun
+
+
+Olfactory nerve
+عصب بویایی
+The olfactory nerve is involved in the sense of smell.
+عصب بویایی در حس بویایی نقش دارد.
+noun
+
+
+Facial nerve
+عصب صورتی
+The facial nerve controls many facial muscles.
+عصب صورتی بسیاری از عضلات صورت را کنترل می‌کند.
+noun
+
+
+Trigeminal nerve
+عصب سه‌قلو
+The trigeminal nerve provides sensation to much of the face.
+عصب سه‌قلو حس بخش زیادی از صورت را تأمین می‌کند.
+noun
+
+
+Vagus nerve
+عصب واگ
+The vagus nerve influences several internal organs.
+عصب واگ بر چندین اندام داخلی تأثیر می‌گذارد.
+noun
+
+
+Motor
+حرکتی؛ مربوط به حرکت
+The examination assessed motor function.
+معاینه عملکرد حرکتی را ارزیابی کرد.
+adjective
+
+
+Sensory
+حسی؛ مربوط به دریافت احساسات
+The patient had a sensory deficit.
+بیمار دچار نقص حسی بود.
+adjective
+
+
+Motor neuron
+نورون حرکتی
+A motor neuron controls muscle contraction.
+نورون حرکتی انقباض عضله را کنترل می‌کند.
+noun
+
+
+Sensory neuron
+نورون حسی
+A sensory neuron carries information from receptors to the nervous system.
+نورون حسی اطلاعات را از گیرنده‌ها به دستگاه عصبی منتقل می‌کند.
+noun
+
+
+Autonomic
+خودکار؛ خودمختار
+The autonomic nervous system regulates involuntary functions.
+دستگاه عصبی خودمختار عملکردهای غیرارادی را تنظیم می‌کند.
+adjective
+
+
+Autonomic nervous system
+دستگاه عصبی خودمختار
+The autonomic nervous system controls heart rate and digestion.
+دستگاه عصبی خودمختار ضربان قلب و گوارش را کنترل می‌کند.
+noun
+
+
+Sympathetic
+سمپاتیک؛ مربوط به بخش سمپاتیک دستگاه عصبی
+The sympathetic system increases heart rate during stress.
+دستگاه سمپاتیک هنگام استرس ضربان قلب را افزایش می‌دهد.
+adjective
+
+
+Parasympathetic
+پاراسمپاتیک؛ مربوط به بخش پاراسمپاتیک دستگاه عصبی
+The parasympathetic system promotes relaxation.
+دستگاه پاراسمپاتیک باعث آرامش می‌شود.
+adjective
+
+
+Parkinson's disease
+بیماری پارکینسون
+Parkinson's disease can cause tremor and rigidity.
+بیماری پارکینسون می‌تواند باعث لرزش و سفتی عضلات شود.
+noun
+
+
+Alzheimer's disease
+بیماری آلزایمر
+Alzheimer's disease commonly affects memory.
+بیماری آلزایمر معمولاً حافظه را تحت تأثیر قرار می‌دهد.
+noun
+
+
+Dementia
+زوال عقل؛ اختلال پیشرونده در حافظه و توانایی‌های شناختی
+Dementia can affect memory and daily activities.
+زوال عقل می‌تواند حافظه و فعالیت‌های روزمره را تحت تأثیر قرار دهد.
+noun
+
+
+Memory
+حافظه
+The hippocampus plays an important role in memory.
+هیپوکامپ نقش مهمی در حافظه دارد.
+noun
+
+
+Cognition
+شناخت؛ فرایندهای ذهنی مانند تفکر و یادگیری
+The disease can affect cognition.
+این بیماری می‌تواند بر توانایی‌های شناختی تأثیر بگذارد.
+noun
+
+
+Cognitive
+شناختی؛ مربوط به فرایندهای ذهنی
+The patient showed mild cognitive impairment.
+بیمار اختلال شناختی خفیفی نشان داد.
+adjective
+
+
+Attention
+توجه
+The medication may improve attention.
+دارو ممکن است توجه را بهبود دهد.
+noun
+
+
+Concentration
+تمرکز
+The patient had difficulty with concentration.
+بیمار در تمرکز مشکل داشت.
+noun
+
+
+Speech
+گفتار
+The stroke affected the patient's speech.
+سکته مغزی بر گفتار بیمار تأثیر گذاشت.
+noun
+
+
+Language
+زبان؛ توانایی استفاده و درک زبان
+The patient had difficulty understanding language.
+بیمار در درک زبان مشکل داشت.
+noun
+
+
+Aphasia
+آفازی؛ اختلال در تولید یا درک زبان
+Aphasia can occur after a stroke.
+آفازی می‌تواند پس از سکته مغزی رخ دهد.
+noun
+
+
+Dysarthria
+دیزآرتری؛ اختلال در تلفظ و تولید گفتار
+The patient developed dysarthria after the stroke.
+بیمار پس از سکته مغزی دچار دیزآرتری شد.
+noun
+
+
+Dysphagia
+دیسفاژی؛ اختلال در بلع
+Dysphagia can increase the risk of aspiration.
+دیسفاژی می‌تواند خطر ورود مواد به راه هوایی را افزایش دهد.
+noun
+
+
+Apraxia
+آپراکسی؛ ناتوانی در انجام حرکات هدفمند با وجود توانایی حرکتی
+Apraxia can affect the ability to perform learned movements.
+آپراکسی می‌تواند توانایی انجام حرکات آموخته‌شده را مختل کند.
+noun
+
+
+Agnosia
+آگنوزی؛ ناتوانی در شناخت محرک‌های حسی
+Agnosia can occur after certain brain injuries.
+آگنوزی می‌تواند پس از برخی آسیب‌های مغزی رخ دهد.
+noun
+
+
+Delirium
+دلیریوم؛ حالت حاد اختلال هوشیاری و شناخت
+Delirium can develop suddenly in hospitalized patients.
+دلیریوم می‌تواند به‌طور ناگهانی در بیماران بستری ایجاد شود.
+noun
+
+
+Consciousness
+هوشیاری
+The patient briefly lost consciousness.
+بیمار برای مدت کوتاهی هوشیاری خود را از دست داد.
+noun
+
+
+Coma
+کما
+The patient remained in a coma after the injury.
+بیمار پس از آسیب در کما باقی ماند.
+noun
+
+
+Confusion
+گیجی؛ اختلال در تفکر یا آگاهی
+The patient experienced sudden confusion.
+بیمار دچار گیجی ناگهانی شد.
+noun
+
+
+Memory loss
+از دست دادن حافظه؛ فراموشی
+Memory loss can have many causes.
+از دست دادن حافظه می‌تواند علل مختلفی داشته باشد.
+noun
+
+
+Amnesia
+آمنزی؛ فراموشی
+The injury caused temporary amnesia.
+این آسیب باعث فراموشی موقت شد.
+noun
+
+
+Insomnia
+بی‌خوابی
+Insomnia can affect concentration during the day.
+بی‌خوابی می‌تواند در طول روز بر تمرکز تأثیر بگذارد.
+noun
+
+
+Sleep
+خواب
+Sleep is important for brain health.
+خواب برای سلامت مغز مهم است.
+noun
+
+
+Narcolepsy
+نارکولپسی؛ حملات غیرقابل‌کنترل خواب
+Narcolepsy can cause excessive daytime sleepiness.
+نارکولپسی می‌تواند باعث خواب‌آلودگی بیش از حد در طول روز شود.
+noun
+
+
+Meningitis
+مننژیت؛ التهاب پرده‌های اطراف مغز و نخاع
+Bacterial meningitis can be a serious condition.
+مننژیت باکتریایی می‌تواند وضعیت جدی‌ای باشد.
+noun
+
+
+Encephalitis
+انسفالیت؛ التهاب مغز
+Viral infections can cause encephalitis.
+عفونت‌های ویروسی می‌توانند باعث انسفالیت شوند.
+noun
+
+
+Encephalopathy
+انسفالوپاتی؛ اختلال عملکرد مغز
+Metabolic disorders can cause encephalopathy.
+اختلالات متابولیک می‌توانند باعث انسفالوپاتی شوند.
+noun
+
+
+Hydrocephalus
+هیدروسفالی؛ تجمع غیرطبیعی مایع مغزی‌نخاعی
+Hydrocephalus can increase pressure inside the skull.
+هیدروسفالی می‌تواند فشار داخل جمجمه را افزایش دهد.
+noun
+
+
+Brain tumor
+تومور مغزی
+The scan revealed a brain tumor.
+اسکن وجود یک تومور مغزی را نشان داد.
+noun
+
+
+Glioma
+گلیوما؛ تومور منشأگرفته از سلول‌های گلیال
+The patient was diagnosed with a glioma.
+برای بیمار گلیوما تشخیص داده شد.
+noun
+
+
+Meningioma
+مننژیوم؛ توموری که از مننژها منشأ می‌گیرد
+The meningioma was detected during imaging.
+مننژیوم هنگام تصویربرداری تشخیص داده شد.
+noun
+
+
+Metastasis
+متاستاز؛ گسترش سرطان به بخش دیگر بدن
+The scan showed no evidence of brain metastasis.
+اسکن هیچ شواهدی از متاستاز مغزی نشان نداد.
+noun
+
+
+Lesion
+ضایعه؛ ناحیه آسیب‌دیده یا غیرطبیعی
+The MRI showed a small brain lesion.
+ام‌آر‌آی یک ضایعه کوچک مغزی را نشان داد.
+noun
+
+
+Mass
+توده؛ ساختار غیرطبیعی ایجادشده در بافت
+The scan showed a small intracranial mass.
+اسکن یک توده کوچک داخل جمجمه‌ای را نشان داد.
+noun
+
+
+Trauma
+آسیب؛ صدمه جسمی
+Head trauma can cause neurological problems.
+آسیب سر می‌تواند باعث مشکلات عصبی شود.
+noun
+
+
+Concussion
+ضربه مغزی؛ آسیب خفیف مغزی ناشی از ضربه
+The athlete was evaluated for a concussion.
+ورزشکار از نظر ضربه مغزی ارزیابی شد.
+noun
+
+
+Contusion
+کوفتگی؛ آسیب بافتی ناشی از ضربه
+The scan showed a cerebral contusion.
+اسکن یک کوفتگی مغزی را نشان داد.
+noun
+
+
+Hematoma
+هماتوم؛ تجمع خون در بافت
+The patient developed a subdural hematoma.
+بیمار دچار هماتوم ساب‌دورال شد.
+noun
+
+
+Subdural hematoma
+هماتوم زیرسخت‌شامه‌ای
+A subdural hematoma can occur after head trauma.
+هماتوم زیرسخت‌شامه‌ای می‌تواند پس از آسیب سر ایجاد شود.
+noun
+
+
+Epidural hematoma
+هماتوم اپیدورال؛ تجمع خون بین جمجمه و سخت‌شامه
+An epidural hematoma may require urgent treatment.
+هماتوم اپیدورال ممکن است به درمان فوری نیاز داشته باشد.
+noun
+
+
+Multiple sclerosis
+ام‌اس؛ مولتیپل اسکلروزیس
+Multiple sclerosis can affect movement and sensation.
+ام‌اس می‌تواند حرکت و حس را تحت تأثیر قرار دهد.
+noun
+
+
+Amyotrophic lateral sclerosis
+اسکلروز جانبی آمیوتروفیک؛ ALS
+Amyotrophic lateral sclerosis affects motor neurons.
+اسکلروز جانبی آمیوتروفیک نورون‌های حرکتی را تحت تأثیر قرار می‌دهد.
+noun
+
+
+Huntington's disease
+بیماری هانتینگتون
+Huntington's disease can cause involuntary movements.
+بیماری هانتینگتون می‌تواند باعث حرکات غیرارادی شود.
+noun
+
+
+Muscular dystrophy
+دیستروفی عضلانی
+Muscular dystrophy causes progressive muscle weakness.
+دیستروفی عضلانی باعث ضعف پیشرونده عضلات می‌شود.
+noun
+
+
+Myasthenia gravis
+میاستنی گراویس؛ بیماری خودایمنی همراه با ضعف عضلانی
+Myasthenia gravis can cause muscle weakness.
+میاستنی گراویس می‌تواند باعث ضعف عضلانی شود.
+noun
+
+
+Guillain-Barré syndrome
+سندرم گیلن‌باره؛ اختلال التهابی اعصاب محیطی
+Guillain-Barré syndrome can cause progressive weakness.
+سندرم گیلن‌باره می‌تواند باعث ضعف پیشرونده شود.
+noun
+
+
+Carpal tunnel syndrome
+سندرم تونل کارپ؛ فشردگی عصب مدیان در مچ دست
+Carpal tunnel syndrome can cause numbness in the hand.
+سندرم تونل کارپ می‌تواند باعث بی‌حسی دست شود.
+noun
+
+
+Sciatica
+سیاتیک؛ درد ناشی از تحریک یا فشار عصب سیاتیک
+Sciatica can cause pain that travels down the leg.
+سیاتیک می‌تواند باعث دردی شود که در امتداد پا انتشار می‌یابد.
+noun
+
+
+Radiculopathy
+رادیکولوپاتی؛ اختلال ریشه عصبی
+Lumbar radiculopathy can cause leg pain and weakness.
+رادیکولوپاتی کمری می‌تواند باعث درد و ضعف پا شود.
+noun
+
+
+Neurological
+عصبی؛ مربوط به مغز، نخاع و اعصاب
+The patient has several neurological symptoms.
+بیمار چندین علامت عصبی دارد.
+adjective
+
+
+Neurological examination
+معاینه عصبی
+The doctor performed a complete neurological examination.
+پزشک یک معاینه کامل عصبی انجام داد.
+noun
+
+
+Electroencephalogram
+نوار مغزی؛ الکتروانسفالوگرام
+The electroencephalogram recorded abnormal brain activity.
+نوار مغزی فعالیت غیرطبیعی مغز را ثبت کرد.
+noun
+
+
+EEG
+نوار مغزی؛ مخفف الکتروانسفالوگرام
+The EEG showed abnormal electrical activity.
+نوار مغزی فعالیت الکتریکی غیرطبیعی را نشان داد.
+noun
+
+
+Electromyography
+الکترومیوگرافی؛ نوار عصب و عضله
+Electromyography can evaluate muscle and nerve function.
+الکترومیوگرافی می‌تواند عملکرد عضله و عصب را ارزیابی کند.
+noun
+
+
+Nerve conduction study
+مطالعه هدایت عصبی
+A nerve conduction study can detect peripheral nerve damage.
+مطالعه هدایت عصبی می‌تواند آسیب اعصاب محیطی را تشخیص دهد.
+noun
+
+
+Magnetic resonance imaging
+تصویربرداری تشدید مغناطیسی؛ MRI
+Magnetic resonance imaging provides detailed images of the brain.
+ام‌آر‌آی تصاویر دقیقی از مغز ارائه می‌دهد.
+noun
+
+
+Computed tomography
+سی‌تی‌اسکن؛ توموگرافی کامپیوتری
+Computed tomography can quickly detect brain bleeding.
+سی‌تی‌اسکن می‌تواند به‌سرعت خونریزی مغزی را تشخیص دهد.
+noun
+
+
+Neuroimaging
+تصویربرداری عصبی؛ تصویربرداری از مغز و دستگاه عصبی
+Neuroimaging helps identify structural abnormalities in the brain.
+تصویربرداری عصبی به شناسایی ناهنجاری‌های ساختاری مغز کمک می‌کند.
+noun
+
+
+Biopsy
+نمونه‌برداری؛ برداشتن نمونه بافت برای بررسی
+A biopsy may be performed to identify a brain tumor.
+ممکن است برای شناسایی تومور مغزی نمونه‌برداری انجام شود.
+noun
+
+
+Cerebral blood flow
+جریان خون مغزی
+Cerebral blood flow decreases when an artery is blocked.
+جریان خون مغزی هنگام انسداد یک شریان کاهش می‌یابد.
+noun
+
+
+Neurotransmission
+انتقال پیام عصبی
+Neurotransmission depends on chemical and electrical signals.
+انتقال پیام عصبی به سیگنال‌های شیمیایی و الکتریکی وابسته است.
+noun
+
+
+Neurophysiology
+فیزیولوژی عصبی؛ مطالعه عملکرد دستگاه عصبی
+Neurophysiology examines how the nervous system functions.
+فیزیولوژی عصبی نحوه عملکرد دستگاه عصبی را بررسی می‌کند.
+noun
+
+
+Neuroscience
+علوم اعصاب؛ مطالعه علمی مغز و دستگاه عصبی
+Neuroscience investigates how the brain works.
+علوم اعصاب نحوه عملکرد مغز را بررسی می‌کند.
+noun
+
+
+Neurosurgery
+جراحی مغز و اعصاب
+The patient was referred for neurosurgery.
+بیمار برای جراحی مغز و اعصاب ارجاع داده شد.
+noun
+
+
+Neurosurgeon
+جراح مغز و اعصاب
+The neurosurgeon discussed the surgical options.
+جراح مغز و اعصاب درباره گزینه‌های جراحی صحبت کرد.
+noun
+
+
+Rehabilitation
+توان‌بخشی
+Neurological rehabilitation can improve functional recovery.
+توان‌بخشی عصبی می‌تواند به بهبود عملکردی کمک کند.
+noun
+
+
+Physical therapy
+فیزیوتراپی
+Physical therapy can improve strength and mobility.
+فیزیوتراپی می‌تواند قدرت و تحرک را بهبود دهد.
+noun
+
+
+Occupational therapy
+کاردرمانی
+Occupational therapy helps patients perform daily activities.
+کاردرمانی به بیماران کمک می‌کند فعالیت‌های روزمره را انجام دهند.
+noun
+
+
+Speech therapy
+گفتاردرمانی
+Speech therapy can help patients with aphasia.
+گفتاردرمانی می‌تواند به بیماران مبتلا به آفازی کمک کند.
+noun
+
+
+Mobility
+تحرک؛ توانایی حرکت
+The treatment improved the patient's mobility.
+درمان تحرک بیمار را بهبود داد.
+noun
+
+
+Disability
+ناتوانی؛ معلولیت
+The disease can cause long-term disability.
+این بیماری می‌تواند باعث ناتوانی طولانی‌مدت شود.
+noun
+
+
+Progressive
+پیشرونده؛ رو به تشدید
+The disease causes progressive neurological damage.
+این بیماری باعث آسیب عصبی پیشرونده می‌شود.
+adjective
+
+
+Chronic
+مزمن؛ طولانی‌مدت
+The patient has a chronic neurological condition.
+بیمار به یک بیماری عصبی مزمن مبتلا است.
+adjective
+
+
+Acute
+حاد؛ ناگهانی و شدید
+The patient developed acute neurological symptoms.
+بیمار دچار علائم عصبی حاد شد.
+adjective
+
+
+Inflammation
+التهاب
+Inflammation can damage nervous tissue.
+التهاب می‌تواند به بافت عصبی آسیب برساند.
+noun
+
+
+Infection
+عفونت
+A bacterial infection can affect the nervous system.
+یک عفونت باکتریایی می‌تواند دستگاه عصبی را تحت تأثیر قرار دهد.
+noun
+
+
+Degeneration
+تخریب؛ تحلیل رفتن تدریجی
+Neural degeneration can lead to loss of function.
+تخریب عصبی می‌تواند به از دست رفتن عملکرد منجر شود.
+noun
+
+
+Compression
+فشردگی؛ فشار واردشده بر عصب یا بافت
+Nerve compression can cause pain and numbness.
+فشردگی عصب می‌تواند باعث درد و بی‌حسی شود.
+noun
+
+
+Irritation
+تحریک؛ آزردگی بافت یا عصب
+Nerve irritation can cause sharp pain.
+تحریک عصب می‌تواند باعث درد شدید و تیز شود.
+noun
+
+
+Pain
+درد
+The patient reported severe nerve pain.
+بیمار از درد شدید عصبی خبر داد.
+noun
+
+
+Chronic pain
+درد مزمن
+Chronic pain can affect quality of life.
+درد مزمن می‌تواند بر کیفیت زندگی تأثیر بگذارد.
+noun
+
+
+Neuropathic pain
+درد نوروپاتیک؛ درد ناشی از آسیب یا اختلال عصب
+Neuropathic pain may feel like burning or electric shocks.
+درد نوروپاتیک ممکن است مانند سوزش یا شوک الکتریکی احساس شود.
+noun
+
+
+Sensory loss
+از دست دادن حس
+The patient experienced sensory loss in the foot.
+بیمار دچار از دست دادن حس در پا شد.
+noun
+
+
+Muscle weakness
+ضعف عضلانی
+Muscle weakness can be an early symptom of some neurological disorders.
+ضعف عضلانی می‌تواند یکی از علائم اولیه برخی اختلالات عصبی باشد.
+noun
+
+
+Involuntary movement
+حرکت غیرارادی
+The disorder causes involuntary movements.
+این اختلال باعث حرکات غیرارادی می‌شود.
+noun
+
+
+Voluntary movement
+حرکت ارادی
+The cerebral cortex controls many voluntary movements.
+قشر مغز بسیاری از حرکات ارادی را کنترل می‌کند.
+noun
+
+
+Motor control
+کنترل حرکتی
+The cerebellum contributes to motor control.
+مخچه در کنترل حرکتی نقش دارد.
+noun
+
+
+Brain function
+عملکرد مغز
+Sleep is important for normal brain function.
+خواب برای عملکرد طبیعی مغز مهم است.
+noun
+
+
+Mental status
+وضعیت ذهنی؛ وضعیت شناختی و هوشیاری
+The doctor assessed the patient's mental status.
+پزشک وضعیت ذهنی بیمار را ارزیابی کرد.
+noun
+
+
+Alertness
+هوشیاری؛ میزان بیداری و آگاهی
+The patient's alertness improved after treatment.
+هوشیاری بیمار پس از درمان بهتر شد.
+noun
+
+
+Orientation
+جهت‌یابی؛ آگاهی از زمان، مکان و شخص
+The nurse assessed the patient's orientation.
+پرستار جهت‌یابی بیمار را ارزیابی کرد.
+noun
+
+
+Cerebral
+مغزی؛ مربوط به مغز
+The scan showed cerebral abnormalities.
+اسکن ناهنجاری‌های مغزی را نشان داد.
+adjective
+
+
+Spinal
+نخاعی؛ مربوط به نخاع
+The patient had a spinal injury.
+بیمار دچار آسیب نخاعی شده بود.
+adjective
+
+
+Cervical
+گردنی؛ مربوط به ناحیه گردن
+The injury affected the cervical spinal cord.
+آسیب نخاع گردنی را تحت تأثیر قرار داد.
+adjective
+
+
+Lumbar
+کمری؛ مربوط به ناحیه کمر
+The patient had a lumbar nerve problem.
+بیمار دچار مشکل عصب کمری بود.
+adjective
+
+
+Thoracic
+سینه‌ای؛ مربوط به قفسه سینه
+The thoracic spinal cord was examined.
+نخاع سینه‌ای بررسی شد.
+adjective
+
+
+Corticospinal tract
+راه کورتیکواسپاینال؛ مسیر عصبی مرتبط با حرکات ارادی
+The corticospinal tract controls voluntary movement.
+راه کورتیکواسپاینال حرکات ارادی را کنترل می‌کند.
+noun
+
+
+Brainstem reflex
+رفلکس ساقه مغز
+The physician evaluated the brainstem reflexes.
+پزشک رفلکس‌های ساقه مغز را ارزیابی کرد.
+noun
+
+
+Neurogenic
+با منشأ عصبی؛ ناشی از دستگاه عصبی
+The symptoms may have a neurogenic cause.
+علائم ممکن است منشأ عصبی داشته باشند.
+adjective
+
+
+Idiopathic
+ایدیوپاتیک؛ با علت ناشناخته
+The patient was diagnosed with idiopathic neuropathy.
+برای بیمار نوروپاتی ایدیوپاتیک تشخیص داده شد.
+adjective
+
+
+Hereditary
+ارثی
+Some neurological disorders are hereditary.
+برخی اختلالات عصبی ارثی هستند.
+adjective
+
+
+Congenital
+مادرزادی
+The child has a congenital neurological disorder.
+کودک به یک اختلال عصبی مادرزادی مبتلا است.
+adjective
+
+
+Autoimmune
+خودایمنی
+Multiple sclerosis is an autoimmune disease.
+ام‌اس یک بیماری خودایمنی است.
+adjective
+
+
+Severe
+شدید
+The patient developed severe neurological symptoms.
+بیمار دچار علائم عصبی شدید شد.
+adjective
+
+
+Mild
+خفیف
+The patient had mild cognitive impairment.
+بیمار دچار اختلال شناختی خفیف بود.
+adjective
+
+
+Symptom
+علامت؛ نشانه بیماری
+Headache is a common neurological symptom.
+سردرد یک علامت شایع عصبی است.
+noun
+
+
+Sign
+نشانه بالینی
+The doctor identified an important neurological sign.
+پزشک یک نشانه بالینی مهم عصبی را شناسایی کرد.
+noun
+
+
+Syndrome
+سندرم؛ مجموعه‌ای از علائم و نشانه‌های مرتبط
+The patient has a neurological syndrome.
+بیمار به یک سندرم عصبی مبتلا است.
+noun
+
+
+Disorder
+اختلال؛ بیماری یا ناهنجاری عملکردی
+The disorder affects the nervous system.
+این اختلال دستگاه عصبی را تحت تأثیر قرار می‌دهد.
+noun
+
+
+Condition
+عارضه؛ بیماری؛ وضعیت پزشکی
+The condition requires neurological evaluation.
+این عارضه به ارزیابی عصبی نیاز دارد.
+noun
+
+
+Diagnosis
+تشخیص
+The diagnosis was based on clinical findings and imaging.
+تشخیص بر اساس یافته‌های بالینی و تصویربرداری انجام شد.
+noun
+
+
+Treatment
+درمان
+Early treatment can improve neurological outcomes.
+درمان زودهنگام می‌تواند نتایج عصبی را بهبود دهد.
+noun
+
+
+Medication
+دارو
+The neurologist prescribed medication for the symptoms.
+متخصص مغز و اعصاب برای علائم دارو تجویز کرد.
+noun
+
+
+Anticonvulsant
+داروی ضدتشنج
+The patient started an anticonvulsant medication.
+بیمار مصرف یک داروی ضدتشنج را آغاز کرد.
+noun
+
+
+Antiepileptic
+ضدصرع؛ داروی مورد استفاده برای کنترل صرع
+The doctor prescribed an antiepileptic drug.
+پزشک یک داروی ضدصرع تجویز کرد.
+adjective
+
+
+Sedative
+آرام‌بخش؛ داروی کاهنده فعالیت دستگاه عصبی
+The patient received a sedative before the procedure.
+بیمار پیش از انجام این روش یک داروی آرام‌بخش دریافت کرد.
+noun
+
+
+Analgesic
+مسکن؛ داروی کاهش‌دهنده درد
+The doctor prescribed an analgesic for the headache.
+پزشک برای سردرد یک مسکن تجویز کرد.
+noun
